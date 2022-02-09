@@ -58,3 +58,4 @@ for caseName in extraData:
 
 closeFileLog(reportName)
 
+

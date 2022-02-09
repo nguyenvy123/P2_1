@@ -66,23 +66,22 @@ def StartGame(caseId, accName):
                 LoginZAcc(caseId, accName, isRegister)
                 ClosePopups()
             CheckImgExists(caseId, "Login game by account %s" %accName, poco(BTN_VIP), True)
-    else:
-        if exists(loginFB): # Chưa login, đang show form login FB
-            keyevent("BACK")
-            sleep(10)
-        CheckImgExists(caseId, "At scene login", poco(BTN_GUEST), True)
-        if poco(BTN_GUEST).exists():
-            LoginZAcc(caseId, accName, isRegister)
-            ClosePopups()
-            CheckImgExists(caseId, "Log into game", poco(BTN_VIP), True, True, 3)
+#     else:
+#         if exists(loginFB): # Chưa login, đang show form login FB
+#             keyevent("BACK")
+#             sleep(10)
+#         CheckImgExists(caseId, "At scene login", poco(BTN_LOG_GG), True)
+#         if poco(BTN_GUEST).exists():
+#             LoginZAcc(caseId, accName, isRegister)
+#             ClosePopups()
+#             CheckImgExists(caseId, "Log into game", poco(BTN_VIP), True, True, 3)
     
 def LogOut():
     poco(BTN_SETTING).click()
     poco(BTN_LOG_OUT).click()
     
 def LoginZAcc(caseId, accName, isRegister): #Chưa check new user có tutorial
-    poco(BTN_CHEAT).click([0.5,0.5])
-    poco(BTN_ZACC).click([0.5,0.5])
+    poco(BTN_ZACC).click()
     poco(BOX_NAME).click([0.5,0.5])
     for i in range(10):
         keyevent("KEYCODE_DEL")
@@ -95,7 +94,7 @@ def LoginZAcc(caseId, accName, isRegister): #Chưa check new user có tutorial
         poco(BTN_REGISTER).click([0.5,0.5])
     else: 
         poco(BTN_LOGINZ).click([0.5,0.5])
-    sleep(15)
+    sleep(10)
     if poco(text = NOTIFICATION).exists():
         poco(BTN_OK).click()
         if poco(text = TXT_ACC_EXISTS).exists():

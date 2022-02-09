@@ -27,9 +27,9 @@ WC_MODEL = "event.UEBirthdayModel"
 
 # ===================== Z Account Login =====================
 
-nameLogin = ["acctest1", "acctest2",  "acctest3", "acctest4"]
+nameLogin = ["vyhn01", "vyhn02"]
 passLogin = "123456"
-userId = ["56965901", "57904821", "57911540", "57911597"]
+userId = ["21246207", "21246208"]
 
 # ===================== Cheat Admin Tool =====================
 

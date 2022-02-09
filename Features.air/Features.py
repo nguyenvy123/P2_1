@@ -85,7 +85,7 @@ def CheatGold(numGold):
         poco(BTN_CHEAT_GOLD).click()
     poco(BTN_CHEAT).click()
     print("Close Cheat Gold")
-CheatGold(100000)
+# CheatGold(100000)
 # Reload lobby bằng cách bấm chọn bàn rồi thoát
 def ReloadLobby(isReload=False, isClose=True):
     poco(BTN_SELECT_TABLE).click()

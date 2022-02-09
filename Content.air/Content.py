@@ -29,21 +29,22 @@ BTN_EXIT = "btnExit"
 # =========================== Login =========================== 
 
 BTN_GUEST = "btnGuest"
+BTN_LOG_GG = "btnLoginGoogle"
 BOX_NAME = "ebLoginUsername"
 BOX_PASS = "ebLoginPass"
 BTN_LOGINZ = "btnLogin"
-BTN_REGISTER = "btnRegister"
+BTN_REGISTER = "btnMethodRegister"
 TXT_ACC_EXISTS = "Akun sudah ada."
 TXT_ACC_INCORRECT = "Nama pengguna/Kata sandi salah,"
 BTN_OUT_LOGINZ = "btnBack"
 
 # =========================== Logout =========================== 
 
-BTN_LOG_OUT = "btnLogout"
+BTN_LOG_OUT = "btnLogOut"
 
 # =========================== Lobby =========================== 
 
-BTN_VIP = "spineVip"
+BTN_VIP = "btnVip"
 BTN_SELECT_TABLE = "btnChooseTableLarge"
 BTN_PLAY = "btnQuickPlay"
 NODE_AVATAR = "nodeImgAvatar"
@@ -199,7 +200,7 @@ BOX_GOLD = 'ebGold'
 BTN_SEND_CHEAT = 'btnSendCheatPlayer'
 BTN_ADD_BOT = "btnAddBot" 
 TXT_TIME_SERVER = "txtServerTime"
-BTN_ZACC = "Zacc"
+BTN_ZACC = "btnLoginZAcc"
 TXT_TC_ID = "___tcId___"
 BTN_CHEAT_TC = "TestCase"
 TXT_POINT = "cheat point"
