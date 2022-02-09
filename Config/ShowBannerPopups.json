@@ -1,0 +1,114 @@
+{
+    "config": {
+        "1": {
+            "newUser": {
+                "priority": 2,
+                "repeat": 1,
+                "delayRepeat": 43200
+            },
+            "normalUser": {
+                "priority": 2,
+                "repeat": 1,
+                "delayRepeat": 43200
+            },
+            "payUser": {
+                "priority": 2,
+                "repeat": 1,
+                "delayRepeat": 43200
+            },
+            "loyalUser": {
+                "priority": 1,
+                "repeat": 1,
+                "delayRepeat": 43200
+            }
+        },
+        "2": {
+            "newUser": {
+                "priority": 3,
+                "repeat": 1,
+                "delayRepeat": 43200
+            },
+            "normalUser": {
+                "priority": 3,
+                "repeat": 1,
+                "delayRepeat": 43200
+            },
+            "payUser": {
+                "priority": 3,
+                "repeat": 1,
+                "delayRepeat": 43200
+            },
+            "loyalUser": {
+                "priority": 2,
+                "repeat": 1,
+                "delayRepeat": 43200
+            }
+        },
+        "3": {
+            "newUser": {
+                "priority": 4,
+                "repeat": -1,
+                "delayRepeat": 0
+            },
+            "normalUser": {
+                "priority": 4,
+                "repeat": -1,
+                "delayRepeat": 0
+            },
+            "payUser": {
+                "priority": 4,
+                "repeat": -1,
+                "delayRepeat": 0
+            },
+            "loyalUser": {
+                "priority": 3,
+                "repeat": -1,
+                "delayRepeat": 0
+            }
+        },
+        "4": {
+            "newUser": {
+                "priority": 1,
+                "repeat": 0,
+                "delayRepeat": 0
+            },
+            "normalUser": {
+                "priority": 1,
+                "repeat": 0,
+                "delayRepeat": 0
+            },
+            "payUser": {
+                "priority": 1,
+                "repeat": 0,
+                "delayRepeat": 0
+            },
+            "loyalUser": {
+                "priority": 5,
+                "repeat": 0,
+                "delayRepeat": 0
+            }
+        },
+        "5": {
+            "newUser": {
+                "priority": 5,
+                "repeat": 1,
+                "delayRepeat": 43200
+            },
+            "normalUser": {
+                "priority": 5,
+                "repeat": 1,
+                "delayRepeat": 43200
+            },
+            "payUser": {
+                "priority": 5,
+                "repeat": 1,
+                "delayRepeat": 43200
+            },
+            "loyalUser": {
+                "priority": 4,
+                "repeat": 1,
+                "delayRepeat": 43200
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "groups" : [
+    {
+      "name" : "board_quest",
+      "displayName" : "Board Quest",
+      "path" : "res/ext/board_quest/cdn/"
+    },
+    {
+      "name" : "board_trip",
+      "path" : "res/ext/board_trip/cdn"
+    },
+    {
+      "name" : "homecoming",
+      "path" : "res/ext/yeti/cdn"
+    },
+    {
+      "name" : "mole",
+      "displayName" : "Find The Rabbit",
+      "path" : "res/ext/find_the_mole/cdn"
+    },
+    {
+      "name" : "fishing_party",
+      "displayName" : "River Rush",
+      "path" : "res/ext/fishing_party/cdn"
+    },
+    {
+      "name" : "catch_fishes",
+      "path" : "res/ext/catch_fish/cdn"
+    },
+    {
+      "name" : "smash_egg",
+      "path" : "res/ext/board_trip/cdn"
+    },
+    {
+      "name" : "birthday",
+      "path" : "res/ext/birthday/cdn"
+    }
+  ]
+}

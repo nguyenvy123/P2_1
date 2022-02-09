@@ -1,0 +1,99 @@
+{
+    "General": {
+        "usdExchangeRate": 22275,
+        "iosNetRevRate": 0.7,
+        "androidNetRevRate": 0.7
+    },
+    "InAppPurchase": {
+        "p2_1a": {
+            "gold": 4000000,
+            "xu": 220,
+            "bonus1StPay": 0.5,
+            "vPoint": 220,
+            "gRequire": 0,
+            "limitPerDay": 20,
+            "standbyTime": 0,
+            "cost": {
+                "ph": 50,
+                "inter": 0.95
+            },
+            "pkgKey": "1a",
+            "pkgKeyGroup": 1
+        },
+        "p2_2a": {
+            "gold": 10000000,
+            "xu": 441,
+            "bonus1StPay": 1.1,
+            "vPoint": 441,
+            "gRequire": 0,
+            "limitPerDay": 20,
+            "standbyTime": 0,
+            "cost": {
+                "ph": 100,
+                "inter": 2
+            },
+            "pkgKey": "2a",
+            "pkgKeyGroup": 2
+        },
+        "p2_5a": {
+            "gold": 30000000,
+            "xu": 1102.5,
+            "bonus1StPay": 1.2,
+            "vPoint": 1102.5,
+            "gRequire": 0,
+            "limitPerDay": 20,
+            "standbyTime": 0,
+            "cost": {
+                "ph": 250,
+                "inter": 5
+            },
+            "pkgKey": "5a",
+            "pkgKeyGroup": 3
+        },
+        "p2_10a": {
+            "gold": 70000000,
+            "xu": 2205,
+            "bonus1StPay": 1.3,
+            "vPoint": 2205,
+            "gRequire": 1102.5,
+            "limitPerDay": 20,
+            "standbyTime": 1800,
+            "cost": {
+                "ph": 500,
+                "inter": 10
+            },
+            "pkgKey": "10a",
+            "pkgKeyGroup": 4
+        },
+        "p2_20a": {
+            "gold": 150000000,
+            "xu": 4410,
+            "bonus1StPay": 1.4,
+            "vPoint": 4410,
+            "gRequire": 3307.5,
+            "limitPerDay": 20,
+            "standbyTime": 0,
+            "cost": {
+                "ph": 1000,
+                "inter": 20
+            },
+            "pkgKey": "20a",
+            "pkgKeyGroup": 5
+        },
+        "p2_50a": {
+            "gold": 400000000,
+            "xu": 11201.4,
+            "bonus1StPay": 1.5,
+            "vPoint": 11201.4,
+            "gRequire": 7717.5,
+            "limitPerDay": 20,
+            "standbyTime": 0,
+            "cost": {
+                "ph": 2540,
+                "inter": 50
+            },
+            "pkgKey": "50a",
+            "pkgKeyGroup": 6
+        }
+    }
+}

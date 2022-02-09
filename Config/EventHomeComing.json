@@ -1,0 +1,471 @@
+{
+    "Misc": {
+        "enableAlwaysShowETicketAtShop": 1,
+        "maxCycle": 10,
+        "maxCap": 20,
+        "numMoveStart": 2,
+        "minGamesToPlay": 2,
+        "minTimeToPlay": 1800
+    },
+    "EventTimes": [
+        {
+            "beforeTime": 1629072000,
+            "startTime": 1629072000,
+            "endTime": 1630454399,
+            "afterTime": 1630972799
+        },
+        {
+            "beforeTime": 1623801600,
+            "startTime": 1623801600,
+            "endTime": 1625097599,
+            "afterTime": 1625616005
+        }
+    ],
+    "Deal": [
+        {
+            "name": "daily",
+            "level": 0,
+            "start": 0,
+            "end": 13,
+            "numOfAppear": -1,
+            "delayAppear": 1,
+            "price": 20,
+            "reward": {
+                "gold": 700000,
+                "vpoint": 70,
+                "move": 7
+            }
+        },
+        {
+            "name": "last",
+            "level": 0,
+            "start": 14,
+            "end": 15,
+            "numOfAppear": -1,
+            "delayAppear": 1,
+            "price": 20,
+            "reward": {
+                "gold": 700000,
+                "vpoint": 70,
+                "move": 14
+            }
+        },
+        {
+            "name": "daily",
+            "level": 1,
+            "start": 0,
+            "end": 13,
+            "numOfAppear": -1,
+            "delayAppear": 1,
+            "price": 50,
+            "reward": {
+                "gold": 2000000,
+                "vpoint": 200,
+                "move": 7
+            }
+        },
+        {
+            "name": "last",
+            "level": 1,
+            "start": 14,
+            "end": 15,
+            "numOfAppear": -1,
+            "delayAppear": 1,
+            "price": 50,
+            "reward": {
+                "gold": 2000000,
+                "vpoint": 200,
+                "move": 14
+            }
+        },
+        {
+            "name": "daily",
+            "level": 2,
+            "start": 0,
+            "end": 13,
+            "numOfAppear": -1,
+            "delayAppear": 1,
+            "price": 200,
+            "reward": {
+                "gold": 12000000,
+                "vpoint": 800,
+                "move": 7
+            }
+        },
+        {
+            "name": "last",
+            "level": 2,
+            "start": 14,
+            "end": 15,
+            "numOfAppear": -1,
+            "delayAppear": 1,
+            "price": 200,
+            "reward": {
+                "gold": 12000000,
+                "vpoint": 800,
+                "move": 14
+            }
+        },
+        {
+            "name": "daily",
+            "level": 3,
+            "start": 0,
+            "end": 13,
+            "numOfAppear": -1,
+            "delayAppear": 1,
+            "price": 300,
+            "reward": {
+                "gold": 20000000,
+                "vpoint": 1000,
+                "move": 7
+            }
+        },
+        {
+            "name": "last",
+            "level": 3,
+            "start": 14,
+            "end": 15,
+            "numOfAppear": -1,
+            "delayAppear": 1,
+            "price": 300,
+            "reward": {
+                "gold": 20000000,
+                "vpoint": 1000,
+                "move": 14
+            }
+        }
+    ],
+    "Accumulation": {
+        "rateWin": 0.05,
+        "rateLose": 0.01,
+        "moveReward": 2,
+        "requiredPoint": [
+            18000,
+            200000,
+            2000000,
+            40000000
+        ]
+    },
+    "Board": [
+        {
+            "level": 0,
+            "boardIndex": [
+                {
+                    "map": 1,
+                    "goldReward": 150000,
+                    "minMove": 1,
+                    "goHomeImmediate": 4,
+                    "GoldImmediate": 140000,
+                    "ratioGoldCell": 1,
+                    "energyOGTicketEvent": 1,
+                    "forceHomeMoves": 3
+                },
+                {
+                    "map": 2,
+                    "goldReward": 230000,
+                    "minMove": 1,
+                    "goHomeImmediate": 9,
+                    "GoldImmediate": 140000,
+                    "ratioGoldCell": 1,
+                    "energyOGTicketEvent": 3,
+                    "forceHomeMoves": 7
+                },
+                {
+                    "map": 3,
+                    "goldReward": 380000,
+                    "minMove": 1,
+                    "goHomeImmediate": 19,
+                    "GoldImmediate": 150000,
+                    "ratioGoldCell": 1,
+                    "energyOGTicketEvent": 5,
+                    "forceHomeMoves": 15
+                },
+                {
+                    "map": 4,
+                    "goldReward": 630000,
+                    "minMove": 1,
+                    "goHomeImmediate": 30,
+                    "GoldImmediate": 170000,
+                    "ratioGoldCell": 1,
+                    "energyOGTicketEvent": 7,
+                    "forceHomeMoves": 24
+                },
+                {
+                    "map": 5,
+                    "goldReward": 1400000,
+                    "minMove": 1,
+                    "goHomeImmediate": 44,
+                    "GoldImmediate": 200000,
+                    "ratioGoldCell": 1,
+                    "energyOGTicketEvent": 10,
+                    "forceHomeMoves": 35
+                }
+            ]
+        },
+        {
+            "level": 1,
+            "boardIndex": [
+                {
+                    "map": 1,
+                    "goldReward": 780000,
+                    "minMove": 1,
+                    "goHomeImmediate": 4,
+                    "GoldImmediate": 702000,
+                    "ratioGoldCell": 5,
+                    "energyOGTicketEvent": 1,
+                    "forceHomeMoves": 3
+                },
+                {
+                    "map": 2,
+                    "goldReward": 1180000,
+                    "minMove": 1,
+                    "goHomeImmediate": 9,
+                    "GoldImmediate": 700000,
+                    "ratioGoldCell": 5,
+                    "energyOGTicketEvent": 3,
+                    "forceHomeMoves": 7
+                },
+                {
+                    "map": 3,
+                    "goldReward": 1900000,
+                    "minMove": 1,
+                    "goHomeImmediate": 19,
+                    "GoldImmediate": 700000,
+                    "ratioGoldCell": 5,
+                    "energyOGTicketEvent": 5,
+                    "forceHomeMoves": 15
+                },
+                {
+                    "map": 4,
+                    "goldReward": 3160000,
+                    "minMove": 1,
+                    "goHomeImmediate": 30,
+                    "GoldImmediate": 800000,
+                    "ratioGoldCell": 5,
+                    "energyOGTicketEvent": 7,
+                    "forceHomeMoves": 24
+                },
+                {
+                    "map": 5,
+                    "goldReward": 7000000,
+                    "minMove": 1,
+                    "goHomeImmediate": 44,
+                    "GoldImmediate": 1000000,
+                    "ratioGoldCell": 5,
+                    "energyOGTicketEvent": 10,
+                    "forceHomeMoves": 35
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "boardIndex": [
+                {
+                    "map": 1,
+                    "goldReward": 4600000,
+                    "minMove": 1,
+                    "goHomeImmediate": 4,
+                    "GoldImmediate": 4210000,
+                    "ratioGoldCell": 30,
+                    "energyOGTicketEvent": 2,
+                    "forceHomeMoves": 3
+                },
+                {
+                    "map": 2,
+                    "goldReward": 7100000,
+                    "minMove": 1,
+                    "goHomeImmediate": 9,
+                    "GoldImmediate": 4200000,
+                    "ratioGoldCell": 30,
+                    "energyOGTicketEvent": 6,
+                    "forceHomeMoves": 7
+                },
+                {
+                    "map": 3,
+                    "goldReward": 11400000,
+                    "minMove": 1,
+                    "goHomeImmediate": 19,
+                    "GoldImmediate": 4700000,
+                    "ratioGoldCell": 30,
+                    "energyOGTicketEvent": 10,
+                    "forceHomeMoves": 15
+                },
+                {
+                    "map": 4,
+                    "goldReward": 18900000,
+                    "minMove": 1,
+                    "goHomeImmediate": 30,
+                    "GoldImmediate": 5100000,
+                    "ratioGoldCell": 30,
+                    "energyOGTicketEvent": 14,
+                    "forceHomeMoves": 24
+                },
+                {
+                    "map": 5,
+                    "goldReward": 42000000,
+                    "minMove": 1,
+                    "goHomeImmediate": 44,
+                    "GoldImmediate": 6200000,
+                    "ratioGoldCell": 30,
+                    "energyOGTicketEvent": 20,
+                    "forceHomeMoves": 35
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "boardIndex": [
+                {
+                    "map": 1,
+                    "goldReward": 17000000,
+                    "minMove": 1,
+                    "goHomeImmediate": 4,
+                    "GoldImmediate": 16000000,
+                    "ratioGoldCell": 115,
+                    "energyOGTicketEvent": 3,
+                    "forceHomeMoves": 3
+                },
+                {
+                    "map": 2,
+                    "goldReward": 27000000,
+                    "minMove": 1,
+                    "goHomeImmediate": 9,
+                    "GoldImmediate": 16000000,
+                    "ratioGoldCell": 115,
+                    "energyOGTicketEvent": 9,
+                    "forceHomeMoves": 7
+                },
+                {
+                    "map": 3,
+                    "goldReward": 43000000,
+                    "minMove": 1,
+                    "goHomeImmediate": 19,
+                    "GoldImmediate": 18000000,
+                    "ratioGoldCell": 115,
+                    "energyOGTicketEvent": 15,
+                    "forceHomeMoves": 15
+                },
+                {
+                    "map": 4,
+                    "goldReward": 72000000,
+                    "minMove": 1,
+                    "goHomeImmediate": 30,
+                    "GoldImmediate": 19000000,
+                    "ratioGoldCell": 115,
+                    "energyOGTicketEvent": 21,
+                    "forceHomeMoves": 24
+                },
+                {
+                    "map": 5,
+                    "goldReward": 161000000,
+                    "minMove": 1,
+                    "goHomeImmediate": 44,
+                    "GoldImmediate": 24000000,
+                    "ratioGoldCell": 115,
+                    "energyOGTicketEvent": 30,
+                    "forceHomeMoves": 35
+                }
+            ]
+        }
+    ],
+    "Gen": [
+        {
+            "goldRequire": 0,
+            "level": 0
+        },
+        {
+            "goldRequire": 240000,
+            "level": 1
+        },
+        {
+            "goldRequire": 2500000,
+            "level": 2
+        },
+        {
+            "goldRequire": 24000000,
+            "level": 3
+        }
+    ],
+    "BonusPurchase": [
+        {
+            "type": 0,
+            "localCost": 10,
+            "turns": 0
+        },
+        {
+            "type": 0,
+            "localCost": 20,
+            "turns": 0
+        },
+        {
+            "type": 0,
+            "localCost": 50,
+            "turns": 1
+        },
+        {
+            "type": 0,
+            "localCost": 100,
+            "turns": 2
+        },
+        {
+            "type": 0,
+            "localCost": 200,
+            "turns": 4
+        },
+        {
+            "type": 0,
+            "localCost": 300,
+            "turns": 6
+        },
+        {
+            "type": 0,
+            "localCost": 400,
+            "turns": 0
+        },
+        {
+            "type": 0,
+            "localCost": 500,
+            "turns": 10
+        },
+        {
+            "type": 0,
+            "localCost": 1000,
+            "turns": 0
+        },
+        {
+            "type": 0,
+            "localCost": 2000,
+            "turns": 0
+        },
+        {
+            "type": 1,
+            "localCost": 50,
+            "turns": 1
+        },
+        {
+            "type": 1,
+            "localCost": 100,
+            "turns": 2
+        },
+        {
+            "type": 1,
+            "localCost": 250,
+            "turns": 5
+        },
+        {
+            "type": 1,
+            "localCost": 500,
+            "turns": 10
+        },
+        {
+            "type": 1,
+            "localCost": 1000,
+            "turns": 20
+        },
+        {
+            "type": 1,
+            "localCost": 2540,
+            "turns": 51
+        }
+    ]
+}

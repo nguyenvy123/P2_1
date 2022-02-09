@@ -1,0 +1,506 @@
+{
+    "PriorityRule": [
+        {
+            "nPaying": 0,
+            "gamePlay": [
+                {
+                    "playedGame": 10,
+                    "rate": 10
+                },
+                {
+                    "playedGame": 20,
+                    "rate": 5
+                },
+                {
+                    "playedGame": 50,
+                    "rate": 2
+                }
+            ]
+        },
+        {
+            "nPaying": 1,
+            "gamePlay": [
+                {
+                    "playedGame": 20,
+                    "rate": 2
+                }
+            ]
+        }
+    ],
+    "QuickPlay": [
+        {
+            "gold": 50000,
+            "percent": 1
+        },
+        {
+            "gold": 500000,
+            "percent": 1
+        },
+        {
+            "gold": 5000000,
+            "percent": 1
+        },
+        {
+            "gold": 50000000,
+            "percent": 1
+        },
+        {
+            "gold": 500000000,
+            "percent": 1
+        }
+    ],
+    "Channels": {
+        "1": {
+            "minRequire": 9000,
+            "structure": [
+                1000,
+                1001
+            ],
+            "privateRoom": 0,
+            "minPlayersToStart": 3,
+            "joinUnderChannel": 1,
+            "quickPlayUnderChannel": 1,
+            "quickplayMode": 1,
+            "quickCreateRoom": 1001,
+            "available": 1
+        },
+        "2": {
+            "minRequire": 60000,
+            "structure": [
+                2000,
+                2001,
+                2002,
+                2003
+            ],
+            "privateRoom": 0,
+            "minPlayersToStart": 3,
+            "joinUnderChannel": 0,
+            "quickPlayUnderChannel": 1,
+            "quickplayMode": 1,
+            "quickCreateRoom": 2002,
+            "available": 1
+        },
+        "3": {
+            "minRequire": 600000,
+            "structure": [
+                3000,
+                3001,
+                3002,
+                3003
+            ],
+            "privateRoom": 0,
+            "minPlayersToStart": 3,
+            "joinUnderChannel": 0,
+            "quickPlayUnderChannel": 1,
+            "quickplayMode": 2,
+            "quickCreateRoom": 3003,
+            "available": 1
+        },
+        "4": {
+            "minRequire": 9600000,
+            "structure": [
+                4000,
+                4001,
+                4002,
+                4003
+            ],
+            "privateRoom": 0,
+            "minPlayersToStart": 3,
+            "joinUnderChannel": 1,
+            "quickPlayUnderChannel": 1,
+            "quickplayMode": 2,
+            "quickCreateRoom": 4000,
+            "available": 1
+        },
+        "5": {
+            "minRequire": 80000000,
+            "structure": [
+                5000,
+                5001,
+                5002,
+                5003
+            ],
+            "privateRoom": 0,
+            "minPlayersToStart": 3,
+            "joinUnderChannel": 1,
+            "quickPlayUnderChannel": 1,
+            "quickplayMode": 2,
+            "quickCreateRoom": 4000,
+            "available": 1
+        }
+    },
+    "GameStructures": {
+        "1000": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 1000,
+            "buyInMin": 9000,
+            "playerTimeout": 24,
+            "rateBigStake": 20,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 0,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 1,
+                "structurePoint": 100000
+            }
+        },
+        "1001": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 3000,
+            "buyInMin": 27000,
+            "playerTimeout": 18,
+            "rateBigStake": 20,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 0,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 1,
+                "structurePoint": 100000
+            }
+        },
+        "2000": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 5000,
+            "buyInMin": 60000,
+            "playerTimeout": 18,
+            "rateBigStake": 40,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 0,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 1,
+                "structurePoint": 100000
+            }
+        },
+        "2001": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 10000,
+            "buyInMin": 120000,
+            "playerTimeout": 18,
+            "rateBigStake": 40,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 0,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 1,
+                "structurePoint": 100000
+            }
+        },
+        "2002": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 20000,
+            "buyInMin": 240000,
+            "playerTimeout": 18,
+            "rateBigStake": 40,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 1,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 1,
+                "structurePoint": 100000
+            }
+        },
+        "2003": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 40000,
+            "buyInMin": 480000,
+            "playerTimeout": 18,
+            "rateBigStake": 40,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 1,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 1,
+                "structurePoint": 100000
+            }
+        },
+        "3000": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 60000,
+            "buyInMin": 600000,
+            "playerTimeout": 18,
+            "rateBigStake": 50,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 1,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 100000,
+                "structurePoint": 1
+            }
+        },
+        "3001": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 120000,
+            "buyInMin": 1200000,
+            "playerTimeout": 18,
+            "rateBigStake": 60,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 1,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 100000,
+                "structurePoint": 1
+            }
+        },
+        "3002": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 250000,
+            "buyInMin": 2500000,
+            "playerTimeout": 18,
+            "rateBigStake": 60,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 1,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 100000,
+                "structurePoint": 1
+            }
+        },
+        "3003": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 500000,
+            "buyInMin": 5000000,
+            "playerTimeout": 18,
+            "rateBigStake": 50,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 1,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 100000,
+                "structurePoint": 1
+            }
+        },
+        "4000": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 1200000,
+            "buyInMin": 9600000,
+            "playerTimeout": 18,
+            "rateBigStake": 50,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 1,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 100000,
+                "structurePoint": 1
+            }
+        },
+        "4001": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 2000000,
+            "buyInMin": 16000000,
+            "playerTimeout": 18,
+            "rateBigStake": 50,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 1,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 100000,
+                "structurePoint": 1
+            }
+        },
+        "4002": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 3000000,
+            "buyInMin": 24000000,
+            "playerTimeout": 18,
+            "rateBigStake": 40,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 1,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 100000,
+                "structurePoint": 1
+            }
+        },
+        "4003": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 5000000,
+            "buyInMin": 40000000,
+            "playerTimeout": 18,
+            "rateBigStake": 40,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 1,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 100000,
+                "structurePoint": 1
+            }
+        },
+        "5000": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 10000000,
+            "buyInMin": 80000000,
+            "playerTimeout": 18,
+            "rateBigStake": 50,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 1,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 100000,
+                "structurePoint": 1
+            }
+        },
+        "5001": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 50000000,
+            "buyInMin": 400000000,
+            "playerTimeout": 18,
+            "rateBigStake": 50,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 1,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 100000,
+                "structurePoint": 1
+            }
+        },
+        "5002": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 100000000,
+            "buyInMin": 800000000,
+            "playerTimeout": 18,
+            "rateBigStake": 50,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 1,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 100000,
+                "structurePoint": 1
+            }
+        },
+        "5003": {
+            "maxPlayers": 4,
+            "maxSpectators": 0,
+            "stake": 500000000,
+            "buyInMin": 4000000000,
+            "playerTimeout": 18,
+            "rateBigStake": 50,
+            "minBigStake": 2,
+            "maxBigStake": 2,
+            "bigStakeAvailable": 1,
+            "rake": 0.05,
+            "priorityPoint": {
+                "playerSizePoint": 100000,
+                "structurePoint": 1
+            }
+        }
+    },
+    "BOT": {
+        "1": {
+            "minTimeOut": 6,
+            "maxTimeOut": 12,
+            "minJoinGame": 5,
+            "maxJoinGame": 15,
+            "maxGameHand": 5,
+            "maxBOT": 2,
+            "rangeOfTwo": "0;3",
+            "rangeOfAce": "0;3",
+            "rangeOfKing": "0;3",
+            "rangeOfQueen": "0;3",
+            "rangeOfJack": "0;3",
+            "maxCheatedCards": 6,
+            "available": 0
+        },
+        "2": {
+            "minTimeOut": 2,
+            "maxTimeOut": 6,
+            "minJoinGame": 5,
+            "maxJoinGame": 15,
+            "maxGameHand": 5,
+            "maxBOT": 3,
+            "rangeOfTwo": "0;3",
+            "rangeOfAce": "0;3",
+            "rangeOfKing": "0;3",
+            "rangeOfQueen": "0;3",
+            "rangeOfJack": "0;3",
+            "maxCheatedCards": 6,
+            "available": 0
+        },
+        "3": {
+            "minTimeOut": 2,
+            "maxTimeOut": 6,
+            "minJoinGame": 5,
+            "maxJoinGame": 15,
+            "maxGameHand": 5,
+            "maxBOT": 3,
+            "rangeOfTwo": "0;3",
+            "rangeOfAce": "0;3",
+            "rangeOfKing": "0;3",
+            "rangeOfQueen": "0;3",
+            "rangeOfJack": "0;3",
+            "maxCheatedCards": 7,
+            "available": 0
+        },
+        "4": {
+            "minTimeOut": 2,
+            "maxTimeOut": 6,
+            "minJoinGame": 5,
+            "maxJoinGame": 15,
+            "maxGameHand": 5,
+            "maxBOT": 3,
+            "rangeOfTwo": "0;3",
+            "rangeOfAce": "0;3",
+            "rangeOfKing": "0;3",
+            "rangeOfQueen": "0;3",
+            "rangeOfJack": "0;3",
+            "maxCheatedCards": 7,
+            "available": 0
+        },
+        "5": {
+            "minTimeOut": 2,
+            "maxTimeOut": 6,
+            "minJoinGame": 5,
+            "maxJoinGame": 15,
+            "maxGameHand": 5,
+            "maxBOT": 3,
+            "rangeOfTwo": "0;3",
+            "rangeOfAce": "0;3",
+            "rangeOfKing": "0;3",
+            "rangeOfQueen": "0;3",
+            "rangeOfJack": "0;3",
+            "maxCheatedCards": 8,
+            "available": 0
+        }
+    },
+    "Jackpot": {
+        "1": 1000000,
+        "2": 10000000,
+        "3": 100000000,
+        "4": 1000000000,
+        "5": 5000000000
+    }
+}

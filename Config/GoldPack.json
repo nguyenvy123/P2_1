@@ -1,0 +1,84 @@
+{
+    "CODA_PH": {
+        "CODA_PH_1": {
+            "cost": 10,
+            "gold": 500000,
+            "vPoint": 44,
+            "isAvailable": 0,
+            "bonus1StPay": 0.5,
+            "tagId": 0
+        },
+        "CODA_PH_2": {
+            "cost": 20,
+            "gold": 1000000,
+            "vPoint": 88,
+            "isAvailable": 1,
+            "bonus1StPay": 0.5,
+            "tagId": 0
+        },
+        "CODA_PH_3": {
+            "cost": 50,
+            "gold": 4000000,
+            "vPoint": 220,
+            "isAvailable": 1,
+            "bonus1StPay": 1,
+            "tagId": 1
+        },
+        "CODA_PH_4": {
+            "cost": 100,
+            "gold": 10000000,
+            "vPoint": 441,
+            "isAvailable": 1,
+            "bonus1StPay": 1,
+            "tagId": 0
+        },
+        "CODA_PH_5": {
+            "cost": 200,
+            "gold": 22000000,
+            "vPoint": 882,
+            "isAvailable": 1,
+            "bonus1StPay": 1,
+            "tagId": 0
+        },
+        "CODA_PH_6": {
+            "cost": 300,
+            "gold": 35000000,
+            "vPoint": 1323,
+            "isAvailable": 1,
+            "bonus1StPay": 1,
+            "tagId": 0
+        },
+        "CODA_PH_7": {
+            "cost": 400,
+            "gold": 53000000,
+            "vPoint": 1764,
+            "isAvailable": 0,
+            "bonus1StPay": 1,
+            "tagId": 0
+        },
+        "CODA_PH_8": {
+            "cost": 500,
+            "gold": 80000000,
+            "vPoint": 2205,
+            "isAvailable": 1,
+            "bonus1StPay": 1,
+            "tagId": 2
+        },
+        "CODA_PH_9": {
+            "cost": 1000,
+            "gold": 199000000,
+            "vPoint": 4410,
+            "isAvailable": 0,
+            "bonus1StPay": 1,
+            "tagId": 0
+        },
+        "CODA_PH_10": {
+            "cost": 2000,
+            "gold": 450000000,
+            "vPoint": 8820,
+            "isAvailable": 0,
+            "bonus1StPay": 1,
+            "tagId": 0
+        }
+    }
+}

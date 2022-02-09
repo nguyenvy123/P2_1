@@ -1,0 +1,2012 @@
+{
+    "Misc": {
+        "winGoldToExpRate": 0.001,
+        "loseGoldToExpRate": 0.0005
+    },
+    "Level": [
+        {
+            "requiredExp": 0,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 124,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 184,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 304,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 364,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 424,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 484,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 544,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 604,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 664,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 724,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 784,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 904,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 964,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1024,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1084,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1144,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1204,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1264,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1324,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1384,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1504,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1564,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1624,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1684,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1744,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1804,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1864,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1924,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1984,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2164,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2284,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2404,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2524,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2764,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2884,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3004,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3124,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3364,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3484,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3604,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3724,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3964,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4084,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4204,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4324,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4564,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4684,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4804,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4924,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5164,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5284,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5404,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5524,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5764,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5884,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 6004,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 6124,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 6244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 6844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 7444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 8044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 8644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 9244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 9844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 10444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 11044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 11644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 12244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 12844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 13444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 14044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 14644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 15244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 15844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 16444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 17044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 17644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 18244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 18844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 19444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 20044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 20644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 21244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 21844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 22444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 23044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 23644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 24244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 24844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 25444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 26044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 26644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 27244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 27844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 28444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 29044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 29644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 30244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 30844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 31444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 32044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 32644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 33244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 33844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 34444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 35044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 35644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 36244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 36844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 37444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 38044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 38644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 39244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 39844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 40444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 41044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 41644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 42244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 42844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 43444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 44044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 44644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 45244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 45844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 46444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 47044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 47644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 48244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 48844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 49444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 50044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 50644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 51244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 51844,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 52444,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 53044,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 53644,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 54244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 57244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 60244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 63244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 66244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 69244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 72244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 75244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 78244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 81244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 84244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 87244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 90244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 93244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 96244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 99244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 102244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 105244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 108244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 111244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 114244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 117244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 120244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 123244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 126244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 129244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 132244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 135244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 138244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 141244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 144244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 147244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 150244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 153244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 156244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 159244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 162244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 165244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 168244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 171244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 174244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 177244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 180244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 183244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 186244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 189244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 192244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 195244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 198244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 201244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 231244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 261244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 291244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 321244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 351244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 381244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 411244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 441244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 471244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 501244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 531244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 561244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 591244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 621244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 651244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 681244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 711244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 741244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 771244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 801244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 861244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 891244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 921244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 951244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 981244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1011244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1041244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1071244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1101244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1131244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1161244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1191244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1221244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1251244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1281244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1311244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1341244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1371244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1401244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1431244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1461244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1491244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1521244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1551244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1611244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1641244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1671244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1701244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1731244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1881244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2031244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2181244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2481244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2631244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2781244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2931244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3231244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3381244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3531244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3681244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3981244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4131244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4281244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4431244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4731244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4881244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5031244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5181244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5481244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5631244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5781244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5931244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 6081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 6231244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 6381244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 6531244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 6681244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 6831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 6981244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 7131244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 7281244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 7431244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 7581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 7731244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 7881244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 8031244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 8181244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 8331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 8481244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 8631244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 8781244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 8931244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 9081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 9831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 10581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 11331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 12081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 12831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 13581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 14331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 15081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 15831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 16581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 17331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 18081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 18831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 19581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 20331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 21081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 21831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 22581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 23331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 24081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 24831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 25581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 26331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 27081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 27831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 28581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 29331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 30081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 30831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 31581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 32331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 33081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 33831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 34581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 35331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 36081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 36831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 37581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 38331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 39081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 39831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 40581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 41331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 42081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 42831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 43581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 44331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 45081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 45831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 46581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 47331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 51081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 54831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 58581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 62331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 66081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 69831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 73581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 77331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 81081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 84831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 88581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 92331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 96081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 99831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 103581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 107331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 111081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 114831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 118581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 122331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 126081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 129831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 133581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 137331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 141081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 144831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 148581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 152331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 156081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 159831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 163581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 167331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 171081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 174831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 178581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 182331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 186081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 189831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 193581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 197331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 201081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 204831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 208581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 212331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 216081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 219831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 223581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 227331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 231081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 234831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 253581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 272331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 291081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 309831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 328581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 347331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 366081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 384831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 403581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 422331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 441081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 459831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 478581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 497331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 516081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 534831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 553581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 572331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 591081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 609831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 628581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 647331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 666081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 684831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 703581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 722331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 741081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 759831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 778581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 797331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 816081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 834831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 853581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 872331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 891081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 909831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 928581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 947331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 966081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 984831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1003581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1022331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1041081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1059831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1078581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1097331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1116081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1134831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1153581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1172331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1266081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1359831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1453581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1547331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1641081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1734831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1828581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 1922331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2016081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2109831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2203581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2297331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2391081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2484831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2578581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2672331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2766081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2859831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 2953581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3047331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3141081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3234831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3328581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3422331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3516081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3609831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3703581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3797331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3891081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 3984831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4078581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4172331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4266081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4359831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4453581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4547331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4641081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4734831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4828581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 4922331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5016081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5109831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5203581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5297331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5391081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5484831244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5578581244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5672331244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5766081244,
+            "bonusGold": 0
+        },
+        {
+            "requiredExp": 5859831244,
+            "bonusGold": 0
+        }
+    ]
+}

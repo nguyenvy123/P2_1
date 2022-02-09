@@ -1,0 +1,1659 @@
+{
+    "Misc": {
+        "minBigWin": 11,
+        "minMegaWin": 21,
+        "minTimeToPlay": 86400
+    },
+    "IconInfo": {
+        "1": {
+            "type": 0,
+            "color": 0
+        },
+        "2": {
+            "type": 3,
+            "color": 0
+        },
+        "3": {
+            "type": 1,
+            "color": 1
+        },
+        "4": {
+            "type": 1,
+            "color": 2
+        },
+        "5": {
+            "type": 1,
+            "color": 3
+        },
+        "6": {
+            "type": 2,
+            "color": 1
+        },
+        "7": {
+            "type": 2,
+            "color": 2
+        },
+        "8": {
+            "type": 2,
+            "color": 3
+        }
+    },
+    "Bet": [
+        {
+            "structureIdx": 1000,
+            "open": 0,
+            "goldRequire": 4000,
+            "betMax": 20000,
+            "Bet": [
+                4000,
+                8000,
+                12000,
+                16000,
+                20000
+            ]
+        },
+        {
+            "structureIdx": 1001,
+            "open": 0,
+            "goldRequire": 12000,
+            "betMax": 60000,
+            "Bet": [
+                12000,
+                24000,
+                36000,
+                48000,
+                60000
+            ]
+        },
+        {
+            "structureIdx": 2000,
+            "open": 0,
+            "goldRequire": 20000,
+            "betMax": 100000,
+            "Bet": [
+                20000,
+                40000,
+                60000,
+                80000,
+                100000
+            ]
+        },
+        {
+            "structureIdx": 2001,
+            "open": 0,
+            "goldRequire": 40000,
+            "betMax": 200000,
+            "Bet": [
+                40000,
+                80000,
+                120000,
+                160000,
+                200000
+            ]
+        },
+        {
+            "structureIdx": 2002,
+            "open": 0,
+            "goldRequire": 80000,
+            "betMax": 400000,
+            "Bet": [
+                80000,
+                160000,
+                240000,
+                320000,
+                400000
+            ]
+        },
+        {
+            "structureIdx": 2003,
+            "open": 0,
+            "goldRequire": 160000,
+            "betMax": 800000,
+            "Bet": [
+                160000,
+                320000,
+                480000,
+                640000,
+                800000
+            ]
+        },
+        {
+            "structureIdx": 3000,
+            "open": 1,
+            "goldRequire": 180000,
+            "betMax": 900000,
+            "Bet": [
+                180000,
+                360000,
+                540000,
+                720000,
+                900000
+            ]
+        },
+        {
+            "structureIdx": 3001,
+            "open": 1,
+            "goldRequire": 360000,
+            "betMax": 1800000,
+            "Bet": [
+                360000,
+                720000,
+                1080000,
+                1440000,
+                1800000
+            ]
+        },
+        {
+            "structureIdx": 3002,
+            "open": 1,
+            "goldRequire": 750000,
+            "betMax": 3750000,
+            "Bet": [
+                750000,
+                1500000,
+                2250000,
+                3000000,
+                3750000
+            ]
+        },
+        {
+            "structureIdx": 3003,
+            "open": 1,
+            "goldRequire": 1500000,
+            "betMax": 7500000,
+            "Bet": [
+                1500000,
+                3000000,
+                4500000,
+                6000000,
+                7500000
+            ]
+        },
+        {
+            "structureIdx": 4000,
+            "open": 1,
+            "goldRequire": 3600000,
+            "betMax": 18000000,
+            "Bet": [
+                3600000,
+                7200000,
+                10800000,
+                14400000,
+                18000000
+            ]
+        },
+        {
+            "structureIdx": 4001,
+            "open": 1,
+            "goldRequire": 6000000,
+            "betMax": 30000000,
+            "Bet": [
+                6000000,
+                12000000,
+                18000000,
+                24000000,
+                30000000
+            ]
+        },
+        {
+            "structureIdx": 4002,
+            "open": 1,
+            "goldRequire": 9000000,
+            "betMax": 45000000,
+            "Bet": [
+                9000000,
+                18000000,
+                27000000,
+                36000000,
+                45000000
+            ]
+        },
+        {
+            "structureIdx": 4003,
+            "open": 1,
+            "goldRequire": 15000000,
+            "betMax": 75000000,
+            "Bet": [
+                15000000,
+                30000000,
+                45000000,
+                60000000,
+                75000000
+            ]
+        },
+        {
+            "structureIdx": 5000,
+            "open": 1,
+            "goldRequire": 30000000,
+            "betMax": 150000000,
+            "Bet": [
+                30000000,
+                60000000,
+                90000000,
+                120000000,
+                150000000
+            ]
+        },
+        {
+            "structureIdx": 5001,
+            "open": 1,
+            "goldRequire": 150000000,
+            "betMax": 750000000,
+            "Bet": [
+                150000000,
+                300000000,
+                450000000,
+                600000000,
+                750000000
+            ]
+        },
+        {
+            "structureIdx": 5002,
+            "open": 1,
+            "goldRequire": 300000000,
+            "betMax": 1500000000,
+            "Bet": [
+                300000000,
+                600000000,
+                900000000,
+                1200000000,
+                1500000000
+            ]
+        },
+        {
+            "structureIdx": 5003,
+            "open": 1,
+            "goldRequire": 1500000000,
+            "betMax": 7500000000,
+            "Bet": [
+                1500000000,
+                3000000000,
+                4500000000,
+                6000000000,
+                7500000000
+            ]
+        }
+    ],
+    "WinCoefficient": [
+        {
+            "winCoefficient": 2000,
+            "description": "Three Icons Of Logo Game"
+        },
+        {
+            "winCoefficient": 500,
+            "description": "Three 7 Icons With Distinct Colors "
+        },
+        {
+            "winCoefficient": 150,
+            "description": "Three 7 Icons With Colors #1"
+        },
+        {
+            "winCoefficient": 125,
+            "description": "Three 7 Icons With Colors #2"
+        },
+        {
+            "winCoefficient": 100,
+            "description": "Three 7 Icons With Colors #3"
+        },
+        {
+            "winCoefficient": 60,
+            "description": "Three 7 Icons With Colors #Any"
+        },
+        {
+            "winCoefficient": 50,
+            "description": "Three Bar Icons With Distinct Colors"
+        },
+        {
+            "winCoefficient": 40,
+            "description": "Three Bar Icons With Colors #1"
+        },
+        {
+            "winCoefficient": 25,
+            "description": "Three Bar Icons With Colors #2"
+        },
+        {
+            "winCoefficient": 20,
+            "description": "Three Bar Icons With Colors #3"
+        },
+        {
+            "winCoefficient": 5,
+            "description": "Three Bar Icons With Colors #Any"
+        },
+        {
+            "winCoefficient": 10,
+            "description": "Three Icons With Distinct Colors (Bar Or 7)"
+        },
+        {
+            "winCoefficient": 5,
+            "description": "Two Icons Logo Game"
+        },
+        {
+            "winCoefficient": 2,
+            "description": "One Icon Logo Game"
+        },
+        {
+            "winCoefficient": 2,
+            "description": "Three Icons With Colors #1"
+        },
+        {
+            "winCoefficient": 2,
+            "description": "Three Icons With Colors #2"
+        },
+        {
+            "winCoefficient": 2,
+            "description": "Three Icons With Colors #3"
+        },
+        {
+            "winCoefficient": 1,
+            "description": "Three Blank Icons"
+        },
+        {
+            "winCoefficient": 0,
+            "description": "No Win"
+        }
+    ],
+    "RandomRates": [
+        {
+            "xWinRate": 0,
+            "randomRate": 12000
+        },
+        {
+            "xWinRate": 1,
+            "randomRate": 10000
+        },
+        {
+            "xWinRate": 2,
+            "randomRate": 20000
+        },
+        {
+            "xWinRate": 3,
+            "randomRate": 40000
+        },
+        {
+            "xWinRate": 4,
+            "randomRate": 30000
+        },
+        {
+            "xWinRate": 5,
+            "randomRate": 20000
+        },
+        {
+            "xWinRate": 6,
+            "randomRate": 10000
+        },
+        {
+            "xWinRate": 7,
+            "randomRate": 5000
+        },
+        {
+            "xWinRate": 8,
+            "randomRate": 3000
+        },
+        {
+            "xWinRate": 9,
+            "randomRate": 3000
+        },
+        {
+            "xWinRate": 10,
+            "randomRate": 100
+        },
+        {
+            "xWinRate": 11,
+            "randomRate": 100
+        },
+        {
+            "xWinRate": 12,
+            "randomRate": 100
+        },
+        {
+            "xWinRate": 13,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 14,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 15,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 16,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 17,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 18,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 19,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 20,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 21,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 22,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 23,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 24,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 25,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 26,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 27,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 28,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 29,
+            "randomRate": 50
+        },
+        {
+            "xWinRate": 30,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 31,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 33,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 34,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 35,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 36,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 40,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 41,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 42,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 43,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 44,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 45,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 46,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 48,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 49,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 50,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 51,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 52,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 53,
+            "randomRate": 20
+        },
+        {
+            "xWinRate": 54,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 55,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 56,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 58,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 59,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 60,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 61,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 62,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 63,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 64,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 65,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 66,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 68,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 69,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 70,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 71,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 75,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 81,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 86,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 90,
+            "randomRate": 10
+        },
+        {
+            "xWinRate": 100,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 101,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 102,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 103,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 104,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 105,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 106,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 108,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 109,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 110,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 111,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 120,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 121,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 125,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 126,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 127,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 128,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 129,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 130,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 131,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 133,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 134,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 135,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 136,
+            "randomRate": 3
+        },
+        {
+            "xWinRate": 141,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 146,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 150,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 151,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 152,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 153,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 154,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 155,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 156,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 158,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 159,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 160,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 161,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 166,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 171,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 176,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 185,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 186,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 191,
+            "randomRate": 5
+        },
+        {
+            "xWinRate": 201,
+            "randomRate": 3
+        },
+        {
+            "xWinRate": 210,
+            "randomRate": 3
+        },
+        {
+            "xWinRate": 211,
+            "randomRate": 3
+        },
+        {
+            "xWinRate": 226,
+            "randomRate": 3
+        },
+        {
+            "xWinRate": 251,
+            "randomRate": 3
+        },
+        {
+            "xWinRate": 276,
+            "randomRate": 3
+        },
+        {
+            "xWinRate": 500,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 501,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 502,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 503,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 504,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 505,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 506,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 508,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 509,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 510,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 511,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 521,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 526,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 541,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 551,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 560,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 561,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 600,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 625,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 650,
+            "randomRate": 2
+        },
+        {
+            "xWinRate": 1000,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 1001,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 2005,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 2006,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 2007,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 2008,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 2010,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 2015,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 2025,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 2030,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 2045,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 2055,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 2065,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 2105,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 2130,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 2155,
+            "randomRate": 1
+        },
+        {
+            "xWinRate": 2505,
+            "randomRate": 1
+        }
+    ],
+    "TestCase": [
+        {
+            "Items": "L1 L2 L3;L1 L2 logo;L1 logo L3",
+            "Win": 1504
+        },
+        {
+            "Items": "logo L2 L3;L1 L3 L2;L2 L3 L1",
+            "Win": 1064
+        },
+        {
+            "Items": "L3 L2 L1;L3 L1 L2;L2 L1 L3",
+            "Win": 1620
+        },
+        {
+            "Items": "logo L3 L2;L2 L3 logo;L3 L2 logo",
+            "Win": 71
+        },
+        {
+            "Items": "L3 logo L2;L2 logo L3;L1 L3 logo",
+            "Win": 13
+        },
+        {
+            "Items": "logo L3 L1;L3 logo L1;L3 L1 logo",
+            "Win": 2008
+        },
+        {
+            "Items": "logo L1 L3;L1 logo L2;L2 logo L1",
+            "Win": 13
+        },
+        {
+            "Items": "logo L2 L1;logo L1 L2;L2 L1 logo",
+            "Win": 71
+        },
+        {
+            "Items": "L1 L1 L1;L2 L2 L2;L3 L3 L3",
+            "Win": 1375
+        },
+        {
+            "Items": "L1 L1 logo;L1 logo L1;logo L1 L1",
+            "Win": 2008
+        },
+        {
+            "Items": "L2 L2 logo;L2 logo L2;logo L2 L2",
+            "Win": 2008
+        },
+        {
+            "Items": "L3 L3 logo;L3 logo L3;logo L3 L3",
+            "Win": 2008
+        },
+        {
+            "Items": "L1 L1 L3;L1 L3 L1;L3 L1 L1",
+            "Win": 340
+        },
+        {
+            "Items": "L1 L1 L2;L1 L2 L1;L2 L1 L1",
+            "Win": 365
+        },
+        {
+            "Items": "L2 L2 L3;L2 L3 L2;L3 L2 L2",
+            "Win": 340
+        },
+        {
+            "Items": "L2 L3 L3;L3 L2 L3;L3 L3 L2",
+            "Win": 365
+        },
+        {
+            "Items": "L3 L3 L1;L3 L1 L3;L1 L3 L3",
+            "Win": 390
+        },
+        {
+            "Items": "L1 L2 L2;L2 L1 L2;L2 L2 L1",
+            "Win": 390
+        },
+        {
+            "Items": "X1 X2 X3;X1 X2 logo;X1 logo X3",
+            "Win": 154
+        },
+        {
+            "Items": "logo X2 X3;X1 X3 X2;X2 X3 X1",
+            "Win": 109
+        },
+        {
+            "Items": "X3 X2 X1;X3 X1 X2;X2 X1 X3",
+            "Win": 160
+        },
+        {
+            "Items": "logo X3 X2;X2 X3 logo;X3 X2 logo",
+            "Win": 16
+        },
+        {
+            "Items": "X3 logo X2;X2 logo X3;X1 X3 logo",
+            "Win": 13
+        },
+        {
+            "Items": "logo X3 X1;X3 logo X1;X3 X1 logo",
+            "Win": 2008
+        },
+        {
+            "Items": "logo X1 X3;X1 logo X2;X2 logo X1",
+            "Win": 13
+        },
+        {
+            "Items": "logo X2 X1;logo X1 X2;X2 X1 logo",
+            "Win": 16
+        },
+        {
+            "Items": "X1 X1 X1;X2 X2 X2;X3 X3 X3",
+            "Win": 185
+        },
+        {
+            "Items": "X1 X1 logo;X1 logo X1;logo X1 X1",
+            "Win": 2008
+        },
+        {
+            "Items": "X2 X2 logo;X2 logo X2;logo X2 X2",
+            "Win": 2008
+        },
+        {
+            "Items": "X3 X3 logo;X3 logo X3;logo X3 X3",
+            "Win": 2008
+        },
+        {
+            "Items": "X1 X1 X3;X1 X3 X1;X3 X1 X1",
+            "Win": 40
+        },
+        {
+            "Items": "X1 X1 X2;X1 X2 X1;X2 X1 X1",
+            "Win": 45
+        },
+        {
+            "Items": "X2 X2 X3;X2 X3 X2;X3 X2 X2",
+            "Win": 40
+        },
+        {
+            "Items": "X2 X3 X3;X3 X2 X3;X3 X3 X2",
+            "Win": 45
+        },
+        {
+            "Items": "X3 X3 X1;X3 X1 X3;X1 X3 X3",
+            "Win": 60
+        },
+        {
+            "Items": "X1 X2 X2;X2 X1 X2;X2 X2 X1",
+            "Win": 60
+        },
+        {
+            "Items": "L1 L2 X3;L1 X2 L3;L1 X2 X3",
+            "Win": 50
+        },
+        {
+            "Items": "X1 L2 L3;X1 L2 X3;X1 X2 L3",
+            "Win": 50
+        },
+        {
+            "Items": "L1 logo X3;logo L2 X3;L1 X2 logo",
+            "Win": 18
+        },
+        {
+            "Items": "logo X2 L3;X1 L2 logo;X1 logo L3",
+            "Win": 18
+        },
+        {
+            "Items": "L1 X3 L2;X3 L1 L2;L2 X3 L1",
+            "Win": 240
+        },
+        {
+            "Items": "X3 L2 L1;X2 L1 L3;L1 L3 X2",
+            "Win": 190
+        },
+        {
+            "Items": "X2 L3 L1;L3 L1 X2;L2 X1 L3",
+            "Win": 100
+        },
+        {
+            "Items": "L2 L3 X1;L3 X1 L2;L3 L2 X1",
+            "Win": 30
+        },
+        {
+            "Items": "X2 L1 X3;X2 X3 L1;X3 L1 X2",
+            "Win": 55
+        },
+        {
+            "Items": "X3 X2 L1;X1 X3 L2;L2 X1 X3",
+            "Win": 60
+        },
+        {
+            "Items": "X3 X1 L2;L2 X3 X1;X1 L3 X2",
+            "Win": 45
+        },
+        {
+            "Items": "L3 X1 X2;X2 L3 X1;L3 X2 X1",
+            "Win": 30
+        },
+        {
+            "Items": "L1 X3 logo;X3 L1 logo;X1 L3 logo",
+            "Win": 10
+        },
+        {
+            "Items": "L3 X1 logo;L2 X3 logo;X3 L2 logo",
+            "Win": 10
+        },
+        {
+            "Items": "X2 L3 logo;L3 X2 logo;L2 X1 logo",
+            "Win": 10
+        },
+        {
+            "Items": "X2 L1 logo;L1 logo X2;X2 logo L1",
+            "Win": 13
+        },
+        {
+            "Items": "X1 logo L2;L2 logo X1;L3 logo X1",
+            "Win": 10
+        },
+        {
+            "Items": "X3 logo L1;X2 logo L3;X3 logo L2",
+            "Win": 10
+        },
+        {
+            "Items": "L2 logo X3;L3 logo X2;logo L1 X3",
+            "Win": 13
+        },
+        {
+            "Items": "logo L1 X2;logo X1 L3;logo X1 L2",
+            "Win": 10
+        },
+        {
+            "Items": "logo L3 X2;logo L3 X1;logo X3 L1",
+            "Win": 10
+        },
+        {
+            "Items": "logo X3 L2;logo L2 X1;logo X2 L1",
+            "Win": 10
+        },
+        {
+            "Items": "logo o o;o logo o;o o logo",
+            "Win": 2008
+        },
+        {
+            "Items": "X3 L3 logo;L3 X3 logo;L3 logo X3",
+            "Win": 28
+        },
+        {
+            "Items": "X3 logo L3;logo L3 X3;logo X3 L3",
+            "Win": 10
+        },
+        {
+            "Items": "L1 X1 logo;X1 L1 logo;L1 logo X1",
+            "Win": 10
+        },
+        {
+            "Items": "X1 logo L1;logo L1 X1;logo X1 L1",
+            "Win": 10
+        },
+        {
+            "Items": "L2 X2 logo;X2 L2 logo;L2 logo X2",
+            "Win": 10
+        },
+        {
+            "Items": "X2 logo L2;logo L2 X2;logo X2 L2",
+            "Win": 10
+        },
+        {
+            "Items": "L3 L3 X3;X3 L3 L3;L3 X3 L3",
+            "Win": 108
+        },
+        {
+            "Items": "L3 X3 X3;X3 X3 L3;X3 L3 X3",
+            "Win": 28
+        },
+        {
+            "Items": "L1 L1 X1;X1 L1 L1;L1 X1 L1",
+            "Win": 158
+        },
+        {
+            "Items": "L1 X1 X1;X1 X1 L1;X1 L1 X1",
+            "Win": 48
+        },
+        {
+            "Items": "L2 L2 X2;X2 L2 L2;L2 X2 L2",
+            "Win": 133
+        },
+        {
+            "Items": "L2 X2 X2;X2 X2 L2;X2 L2 X2",
+            "Win": 33
+        },
+        {
+            "Items": "logo logo L3;logo logo L1;logo logo L2",
+            "Win": 25
+        },
+        {
+            "Items": "logo logo X3;logo logo X1;logo logo X2",
+            "Win": 25
+        },
+        {
+            "Items": "logo logo o;L3 logo logo;L1 logo logo",
+            "Win": 2017
+        },
+        {
+            "Items": "L2 logo logo;X3 logo logo;X1 logo logo",
+            "Win": 25
+        },
+        {
+            "Items": "X2 logo logo;o logo logo;logo L3 logo",
+            "Win": 2020
+        },
+        {
+            "Items": "logo L1 logo;logo L2 logo;logo X3 logo",
+            "Win": 25
+        },
+        {
+            "Items": "logo X1 logo;logo X2 logo;logo o logo",
+            "Win": 25
+        },
+        {
+            "Items": "L1 o logo;L1 logo o;o L1 logo",
+            "Win": 16
+        },
+        {
+            "Items": "o logo L1;logo L1 o;logo o L1",
+            "Win": 8
+        },
+        {
+            "Items": "L2 o logo;L2 logo o;o L2 logo",
+            "Win": 16
+        },
+        {
+            "Items": "o logo L2;logo L2 o;logo o L2",
+            "Win": 8
+        },
+        {
+            "Items": "L3 o logo;L3 logo o;o L3 logo",
+            "Win": 16
+        },
+        {
+            "Items": "o logo L3;logo L3 o;logo o L3",
+            "Win": 8
+        },
+        {
+            "Items": "X1 o logo;o X1 logo;X1 logo o",
+            "Win": 8
+        },
+        {
+            "Items": "o logo X1;logo X1 o;logo o X1",
+            "Win": 8
+        },
+        {
+            "Items": "X3 o logo;o X3 logo;X3 logo o",
+            "Win": 8
+        },
+        {
+            "Items": "o logo X3;logo X3 o;logo o X3",
+            "Win": 8
+        },
+        {
+            "Items": "X2 o logo;o X2 logo;X2 logo o",
+            "Win": 8
+        },
+        {
+            "Items": "o logo X2;logo X2 o;logo o X2",
+            "Win": 8
+        },
+        {
+            "Items": "L1 L2 o;L1 o L3;o L2 L3",
+            "Win": 1
+        },
+        {
+            "Items": "X1 X2 o;X1 o X3;o X2 X3",
+            "Win": 1
+        },
+        {
+            "Items": "o L3 L2;L2 L3 o;L3 L2 o",
+            "Win": 60
+        },
+        {
+            "Items": "L3 o L2;L2 o L3;L1 L3 o",
+            "Win": 0
+        },
+        {
+            "Items": "o L3 L1;L3 o L1;L3 L1 o",
+            "Win": 1
+        },
+        {
+            "Items": "o L1 L3;L1 o L2;L2 o L1",
+            "Win": 0
+        },
+        {
+            "Items": "o L2 L1;o L1 L2;L2 L1 o",
+            "Win": 60
+        },
+        {
+            "Items": "L1 L1 o;L1 o L1;o L1 L1",
+            "Win": 1
+        },
+        {
+            "Items": "L2 L2 o;L2 o L2;o L2 L2",
+            "Win": 1
+        },
+        {
+            "Items": "L3 L3 o;L3 o L3;o L3 L3",
+            "Win": 1
+        },
+        {
+            "Items": "o X3 X2;X2 X3 o;X3 X2 o",
+            "Win": 5
+        },
+        {
+            "Items": "X3 o X2;X2 o X3;X1 X3 o",
+            "Win": 0
+        },
+        {
+            "Items": "o X3 X1;X3 o X1;X3 X1 o",
+            "Win": 1
+        },
+        {
+            "Items": "o X1 X3;X1 o X2;X2 o X1",
+            "Win": 0
+        },
+        {
+            "Items": "o X2 X1;o X1 X2;X2 X1 o",
+            "Win": 5
+        },
+        {
+            "Items": "X1 X1 o;X1 o X1;o X1 X1",
+            "Win": 1
+        },
+        {
+            "Items": "X2 X2 o;X2 o X2;o X2 X2",
+            "Win": 1
+        },
+        {
+            "Items": "X3 X3 o;X3 o X3;o X3 X3",
+            "Win": 1
+        },
+        {
+            "Items": "L1 o X3;o L2 X3;L1 X2 o",
+            "Win": 10
+        },
+        {
+            "Items": "o X2 L3;X1 L2 o;X1 o L3",
+            "Win": 10
+        },
+        {
+            "Items": "L1 X3 o;X3 L1 o;X1 L3 o",
+            "Win": 0
+        },
+        {
+            "Items": "L3 X1 o;L2 X3 o;X3 L2 o",
+            "Win": 0
+        },
+        {
+            "Items": "X2 L3 o;L3 X2 o;L2 X1 o",
+            "Win": 0
+        },
+        {
+            "Items": "X2 L1 o;L1 o X2;X2 o L1",
+            "Win": 0
+        },
+        {
+            "Items": "X1 o L2;L2 o X1;L3 o X1",
+            "Win": 0
+        },
+        {
+            "Items": "X3 o L1;X2 o L3;X3 o L2",
+            "Win": 0
+        },
+        {
+            "Items": "L2 o X3;L3 o X2;o L1 X3",
+            "Win": 0
+        },
+        {
+            "Items": "o L1 X2;o X1 L3;o X1 L2",
+            "Win": 0
+        },
+        {
+            "Items": "o L3 X2;o L3 X1;o X3 L1",
+            "Win": 0
+        },
+        {
+            "Items": "o X3 L2;o L2 X1;o X2 L1",
+            "Win": 0
+        },
+        {
+            "Items": "o o L3;o o L1;o o L2",
+            "Win": 0
+        },
+        {
+            "Items": "o o X3;o o X1;o o X2",
+            "Win": 0
+        },
+        {
+            "Items": "L3 o o;L1 o o;L2 o o",
+            "Win": 0
+        },
+        {
+            "Items": "X3 o o;X1 o o;X2 o o",
+            "Win": 0
+        },
+        {
+            "Items": "o L3 o;o L1 o;o L2 o",
+            "Win": 0
+        },
+        {
+            "Items": "o X3 o;o X1 o;o X2 o",
+            "Win": 0
+        },
+        {
+            "Items": "X3 L3 o;L3 X3 o;L3 o X3",
+            "Win": 20
+        },
+        {
+            "Items": "X3 o L3;o L3 X3;o X3 L3",
+            "Win": 2
+        },
+        {
+            "Items": "L1 X1 o;X1 L1 o;L1 o X1",
+            "Win": 2
+        },
+        {
+            "Items": "X1 o L1;o L1 X1;o X1 L1",
+            "Win": 2
+        },
+        {
+            "Items": "L2 X2 o;X2 L2 o;L2 o X2",
+            "Win": 2
+        },
+        {
+            "Items": "X2 o L2;o L2 X2;o X2 L2",
+            "Win": 2
+        },
+        {
+            "Items": "X3 L1 X1;X3 L1 X3;X3 L1 L1",
+            "Win": 0
+        },
+        {
+            "Items": "X3 L1 L3;X3 L2 L2;X3 L2 L3",
+            "Win": 0
+        },
+        {
+            "Items": "X3 L2 X1;X3 L2 X2;X3 L2 X3",
+            "Win": 20
+        },
+        {
+            "Items": "X3 L3 X1;X3 L3 X2;X3 L3 L1",
+            "Win": 0
+        },
+        {
+            "Items": "X3 L3 L2;X3 X1 L1;X3 X1 L3",
+            "Win": 10
+        },
+        {
+            "Items": "X3 X2 L2;X3 X2 L3;X3 X3 L1",
+            "Win": 10
+        },
+        {
+            "Items": "X3 X3 L2;X2 L1 X1;X2 L1 X2",
+            "Win": 10
+        },
+        {
+            "Items": "X2 L1 L1;X2 L1 L2;X2 L2 X1",
+            "Win": 0
+        },
+        {
+            "Items": "X2 L2 X3;X2 L2 L1;X2 L2 L3",
+            "Win": 0
+        },
+        {
+            "Items": "X2 L3 X2;X2 L3 X3;X2 L3 L2",
+            "Win": 0
+        },
+        {
+            "Items": "X2 L3 L3;X2 X1 L1;X2 X1 L2",
+            "Win": 10
+        },
+        {
+            "Items": "X2 X1 L3;X2 X2 L1;X2 X2 L3",
+            "Win": 10
+        },
+        {
+            "Items": "X2 X3 L2;X2 X3 L3;X1 X3 L1",
+            "Win": 20
+        },
+        {
+            "Items": "X1 X3 L3;X1 X2 L1;X1 X2 L2",
+            "Win": 10
+        },
+        {
+            "Items": "X1 X1 L2;X1 X1 L3;X1 L3 X1",
+            "Win": 40
+        },
+        {
+            "Items": "X1 L3 X3;X1 L3 L1;X1 L3 L2",
+            "Win": 20
+        },
+        {
+            "Items": "X1 L3 L3;X1 L2 X1;X1 L2 X2",
+            "Win": 10
+        },
+        {
+            "Items": "X1 L2 L1;X1 L2 L2;X1 L1 X2",
+            "Win": 0
+        },
+        {
+            "Items": "X1 L1 X3;X1 L1 L2;X1 L1 L3",
+            "Win": 0
+        },
+        {
+            "Items": "L3 L1 X1;L3 L1 X3;L3 L2 X2",
+            "Win": 10
+        },
+        {
+            "Items": "L3 L2 X3;L3 L3 X2;L3 L3 X1",
+            "Win": 2
+        },
+        {
+            "Items": "L3 X1 X1;L3 X1 X3;L3 X1 L1",
+            "Win": 0
+        },
+        {
+            "Items": "L3 X1 L3;L3 X2 X2;L3 X2 X3",
+            "Win": 0
+        },
+        {
+            "Items": "L3 X2 L1;L3 X2 L2;L3 X2 L3",
+            "Win": 20
+        },
+        {
+            "Items": "L3 X3 X2;L3 X3 X1;L3 X3 L1",
+            "Win": 0
+        },
+        {
+            "Items": "L3 X3 L2;L2 L1 X1;L2 L1 X2",
+            "Win": 70
+        },
+        {
+            "Items": "L2 L1 X3;L2 L2 X1;L2 L2 X3",
+            "Win": 10
+        },
+        {
+            "Items": "L2 L3 X2;L2 L3 X3;L2 X1 X1",
+            "Win": 10
+        },
+        {
+            "Items": "L2 X1 X2;L2 X1 L1;L2 X1 L2",
+            "Win": 0
+        },
+        {
+            "Items": "L2 X2 X1;L2 X2 X3;L2 X2 L1",
+            "Win": 0
+        },
+        {
+            "Items": "L2 X2 L3;L2 X3 X2;L2 X3 X3",
+            "Win": 0
+        },
+        {
+            "Items": "L2 X3 L2;L2 X3 L3;L1 L1 X2",
+            "Win": 10
+        },
+        {
+            "Items": "L1 L1 X3;L1 L2 X1;L1 L2 X2",
+            "Win": 10
+        },
+        {
+            "Items": "L1 L3 X1;L1 L3 X3;L1 X1 X2",
+            "Win": 10
+        },
+        {
+            "Items": "L1 X1 X3;L1 X1 L2;L1 X1 L3",
+            "Win": 0
+        },
+        {
+            "Items": "L1 X2 X1;L1 X2 X2;L1 X2 L1",
+            "Win": 0
+        },
+        {
+            "Items": "L1 X2 L2;L1 X3 X1;L1 X3 X2",
+            "Win": 30
+        },
+        {
+            "Items": "L1 X3 X3;L1 X3 L1;L1 X3 L3",
+            "Win": 0
+        }
+    ]
+}

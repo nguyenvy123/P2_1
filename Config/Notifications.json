@@ -1,0 +1,16 @@
+{
+    "Notifications": {
+        "afk2h": {
+            "isAvailable": 1,
+            "hour": 20,
+            "minute": 30,
+            "delay": 0
+        },
+        "first_pay": {
+            "isAvailable": 1,
+            "hour": 19,
+            "minute": 0,
+            "delay": 0
+        }
+    }
+}

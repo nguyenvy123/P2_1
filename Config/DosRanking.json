@@ -1,0 +1,352 @@
+{
+    "Misc": {
+        "timeStartFirstTime": 1586707200,
+        "periodTimeSeason": 259200
+    },
+    "Register": {
+        "1000": {
+            "reward": 0,
+            "numberSlot": 0,
+            "isAvailable": 0
+        },
+        "1001": {
+            "reward": 3000,
+            "numberSlot": 30,
+            "isAvailable": 1
+        },
+        "2000": {
+            "reward": 3000,
+            "numberSlot": 20,
+            "isAvailable": 1
+        },
+        "2001": {
+            "reward": 6000,
+            "numberSlot": 20,
+            "isAvailable": 1
+        },
+        "2002": {
+            "reward": 12000,
+            "numberSlot": 20,
+            "isAvailable": 1
+        },
+        "2003": {
+            "reward": 24000,
+            "numberSlot": 20,
+            "isAvailable": 1
+        },
+        "3000": {
+            "reward": 36000,
+            "numberSlot": 15,
+            "isAvailable": 1
+        },
+        "3001": {
+            "reward": 72000,
+            "numberSlot": 15,
+            "isAvailable": 1
+        },
+        "3002": {
+            "reward": 150000,
+            "numberSlot": 15,
+            "isAvailable": 1
+        },
+        "3003": {
+            "reward": 300000,
+            "numberSlot": 15,
+            "isAvailable": 1
+        },
+        "4000": {
+            "reward": 720000,
+            "numberSlot": 10,
+            "isAvailable": 1
+        },
+        "4001": {
+            "reward": 0,
+            "numberSlot": 0,
+            "isAvailable": 0
+        },
+        "4002": {
+            "reward": 0,
+            "numberSlot": 0,
+            "isAvailable": 0
+        },
+        "4003": {
+            "reward": 0,
+            "numberSlot": 0,
+            "isAvailable": 0
+        },
+        "5000": {
+            "reward": 0,
+            "numberSlot": 0,
+            "isAvailable": 0
+        },
+        "5001": {
+            "reward": 0,
+            "numberSlot": 0,
+            "isAvailable": 0
+        },
+        "5002": {
+            "reward": 0,
+            "numberSlot": 0,
+            "isAvailable": 0
+        },
+        "5003": {
+            "reward": 0,
+            "numberSlot": 0,
+            "isAvailable": 0
+        }
+    },
+    "SeasonReward": {
+        "1000": {
+            "1": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "2": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "3": {
+                "gold": 0,
+                "tagName": 0
+            }
+        },
+        "1001": {
+            "1": {
+                "gold": 90000,
+                "tagName": 1
+            },
+            "2": {
+                "gold": 54000,
+                "tagName": 2
+            },
+            "3": {
+                "gold": 36000,
+                "tagName": 3
+            }
+        },
+        "2000": {
+            "1": {
+                "gold": 150000,
+                "tagName": 1
+            },
+            "2": {
+                "gold": 90000,
+                "tagName": 2
+            },
+            "3": {
+                "gold": 60000,
+                "tagName": 3
+            }
+        },
+        "2001": {
+            "1": {
+                "gold": 300000,
+                "tagName": 1
+            },
+            "2": {
+                "gold": 180000,
+                "tagName": 2
+            },
+            "3": {
+                "gold": 120000,
+                "tagName": 3
+            }
+        },
+        "2002": {
+            "1": {
+                "gold": 600000,
+                "tagName": 1
+            },
+            "2": {
+                "gold": 360000,
+                "tagName": 2
+            },
+            "3": {
+                "gold": 240000,
+                "tagName": 3
+            }
+        },
+        "2003": {
+            "1": {
+                "gold": 1200000,
+                "tagName": 1
+            },
+            "2": {
+                "gold": 720000,
+                "tagName": 2
+            },
+            "3": {
+                "gold": 480000,
+                "tagName": 3
+            }
+        },
+        "3000": {
+            "1": {
+                "gold": 1800000,
+                "tagName": 1
+            },
+            "2": {
+                "gold": 1080000,
+                "tagName": 2
+            },
+            "3": {
+                "gold": 720000,
+                "tagName": 3
+            }
+        },
+        "3001": {
+            "1": {
+                "gold": 3600000,
+                "tagName": 1
+            },
+            "2": {
+                "gold": 2160000,
+                "tagName": 2
+            },
+            "3": {
+                "gold": 1440000,
+                "tagName": 3
+            }
+        },
+        "3002": {
+            "1": {
+                "gold": 7500000,
+                "tagName": 1
+            },
+            "2": {
+                "gold": 4500000,
+                "tagName": 2
+            },
+            "3": {
+                "gold": 3000000,
+                "tagName": 3
+            }
+        },
+        "3003": {
+            "1": {
+                "gold": 15000000,
+                "tagName": 1
+            },
+            "2": {
+                "gold": 9000000,
+                "tagName": 2
+            },
+            "3": {
+                "gold": 6000000,
+                "tagName": 3
+            }
+        },
+        "4000": {
+            "1": {
+                "gold": 36000000,
+                "tagName": 1
+            },
+            "2": {
+                "gold": 21600000,
+                "tagName": 2
+            },
+            "3": {
+                "gold": 14400000,
+                "tagName": 3
+            }
+        },
+        "4001": {
+            "1": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "2": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "3": {
+                "gold": 0,
+                "tagName": 0
+            }
+        },
+        "4002": {
+            "1": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "2": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "3": {
+                "gold": 0,
+                "tagName": 0
+            }
+        },
+        "4003": {
+            "1": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "2": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "3": {
+                "gold": 0,
+                "tagName": 0
+            }
+        },
+        "5000": {
+            "1": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "2": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "3": {
+                "gold": 0,
+                "tagName": 0
+            }
+        },
+        "5001": {
+            "1": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "2": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "3": {
+                "gold": 0,
+                "tagName": 0
+            }
+        },
+        "5002": {
+            "1": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "2": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "3": {
+                "gold": 0,
+                "tagName": 0
+            }
+        },
+        "5003": {
+            "1": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "2": {
+                "gold": 0,
+                "tagName": 0
+            },
+            "3": {
+                "gold": 0,
+                "tagName": 0
+            }
+        }
+    }
+}

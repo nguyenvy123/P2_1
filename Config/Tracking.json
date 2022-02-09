@@ -1,0 +1,41 @@
+{
+    "ByAppName": {
+        "com.rummy.pusoy.dos": {
+            "androidPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoNYjEKhlL6FeJNPWFxxVGuqzp1BmYFrXzlERvzO/pM6+Mbmxh435Cd/lmaoUwmYeEWCOGsLDMIcLp3vuv/u3bm2E/83lawFMNTnTnJ6yOlLab7EIznUc6tYKaL3dJlVdBCyPiIxLiISxAWGjk6BYFpYEvyUAp/Z9UHASuikwFLYg4zavw8c4EuExkaBnEqavvDd6rLfw3nYf37HLfVMFihYb+uQ+2HEDH1exEQdanpydku2n2p3VjWGldrhvgoif9MZ3qAxR7eESINymZmrZrM3n3u3EJy/CB65yaEoiy2uxX7Gscsir3ZYxUx/0/BQ2uRi0ad08d9Re6hqRUnBy2QIDAQAB"
+        }
+    },
+    "ByLocate": {
+        "international": {
+            "appleCashType": "APPWallet",
+            "googleCashType": "GGWallet"
+        },
+        "vi": {
+            "appleCashType": "APPVn",
+            "googleCashType": "GGVn"
+        },
+        "th": {
+            "appleCashType": "APPTh",
+            "googleCashType": "GGTh"
+        },
+        "id": {
+            "appleCashType": "APPId",
+            "googleCashType": "GGId"
+        },
+        "my": {
+            "appleCashType": "APPMy",
+            "googleCashType": "GGMy"
+        },
+        "mm": {
+            "appleCashType": "APPMm",
+            "googleCashType": "GGMm"
+        },
+        "in": {
+            "appleCashType": "APPIn",
+            "googleCashType": "GGIn"
+        },
+        "ph": {
+            "appleCashType": "APPPh",
+            "googleCashType": "GGPh"
+        }
+    }
+}

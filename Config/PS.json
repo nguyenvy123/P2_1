@@ -1,0 +1,57 @@
+{
+    "paymentSystems": [
+        "coda"
+    ],
+    "country": {
+        "ph": {
+            "dcb": {
+                "globe": [
+                    {
+                        "partner": "coda",
+                        "paymentType": 87,
+                        "isWebView": 1,
+                        "priority": 1,
+                        "canPostpaid": 0,
+                        "needConfirm": 0,
+                        "needPhoneNumber": 0,
+                        "needOtp": 0
+                    }
+                ],
+                "smartsun": [
+                    {
+                        "partner": "coda",
+                        "paymentType": 88,
+                        "isWebView": 1,
+                        "priority": 2,
+                        "canPostpaid": 0,
+                        "needConfirm": 0,
+                        "needPhoneNumber": 0,
+                        "needOtp": 0
+                    },
+                    {
+                        "partner": "coda",
+                        "paymentType": 89,
+                        "isWebView": 1,
+                        "priority": 1,
+                        "canPostpaid": 0,
+                        "needConfirm": 0,
+                        "needPhoneNumber": 1,
+                        "needOtp": 0
+                    }
+                ],
+                "gcash": [
+                  {
+                    "partner": "coda",
+                    "paymentType": 90,
+                    "isWebView": 1,
+                    "priority": 1,
+                    "canPostpaid": 0,
+                    "needConfirm": 0,
+                    "needPhoneNumber": 0,
+                    "needOtp": 0
+                  }
+                ]
+            }
+        }
+    }
+}

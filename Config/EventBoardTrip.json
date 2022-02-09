@@ -1,0 +1,493 @@
+{
+    "Misc": {
+        "enableAlwaysShowETicketAtShop": 1,
+        "limitAppearOfferNormal": 20,
+        "limitAppearOfferSale": 20,
+        "maxTurn": 20,
+        "tutorialTurns": 2,
+        "tutorialSteps": "2;3",
+        "meterTurns": 2,
+        "numOfCycles": 4,
+        "boardsPerChapter": 3,
+        "chaptersPerCycle": 3,
+        "extraTurns": "2:3",
+        "extraBonusDuration": 3600,
+        "upgradeChapterRewardRatio": 1.2,
+        "minGamesToPlay": 2,
+        "minTimeToPlay": 1800,
+        "minSteps": 1,
+        "maxSteps": 10
+    },
+    "EventTimes": [
+        {
+            "beforeTime": 1627776000,
+            "startTime": 1627776000,
+            "endTime": 1629071999,
+            "afterTime": 1629590399
+        },
+        {
+            "beforeTime": 1622505600,
+            "startTime": 1622505600,
+            "endTime": 1623801599,
+            "afterTime": 1624319999
+        }
+    ],
+    "Cycles": [
+        {
+            "barMeterPoint": 18000,
+            "requiredGold": 0,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 1000,
+            "goldRatio": 1,
+            "heartRatio": 1,
+            "ticketRatio": 1,
+            "chapterReward": [
+                180000,
+                400000,
+                850000
+            ],
+            "grandReward": 1400000,
+            "chapterRewardTicket": [
+                1,
+                3,
+                5
+            ],
+            "grandRewardTicket": 10
+        },
+        {
+            "barMeterPoint": 200000,
+            "requiredGold": 240000,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 5000,
+            "goldRatio": 5,
+            "heartRatio": 10,
+            "ticketRatio": 1,
+            "chapterReward": [
+                380000,
+                900000,
+                2000000
+            ],
+            "grandReward": 3000000,
+            "chapterRewardTicket": [
+                2,
+                5,
+                7
+            ],
+            "grandRewardTicket": 10
+        },
+        {
+            "barMeterPoint": 2000000,
+            "requiredGold": 2500000,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 60000,
+            "goldRatio": 10,
+            "heartRatio": 40,
+            "ticketRatio": 2,
+            "chapterReward": [
+                3800000,
+                8800000,
+                19000000
+            ],
+            "grandReward": 31000000,
+            "chapterRewardTicket": [
+                3,
+                6,
+                10
+            ],
+            "grandRewardTicket": 15
+        },
+        {
+            "barMeterPoint": 40000000,
+            "requiredGold": 24000000,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 1200000,
+            "goldRatio": 25,
+            "heartRatio": 100,
+            "ticketRatio": 3,
+            "chapterReward": [
+                38000000,
+                88000000,
+                188000000
+            ],
+            "grandReward": 314000000,
+            "chapterRewardTicket": [
+                5,
+                10,
+                15
+            ],
+            "grandRewardTicket": 20
+        }
+    ],
+    "Offers": [
+        {
+            "cost": 20,
+            "cycles": 0,
+            "start": 1,
+            "end": 13,
+            "delay": 1,
+            "turns": 7,
+            "gold": 700000,
+            "vPoint": 70
+        },
+        {
+            "cost": 50,
+            "cycles": 1,
+            "start": 1,
+            "end": 13,
+            "delay": 1,
+            "turns": 7,
+            "gold": 2000000,
+            "vPoint": 200
+        },
+        {
+            "cost": 200,
+            "cycles": 2,
+            "start": 1,
+            "end": 13,
+            "delay": 1,
+            "turns": 7,
+            "gold": 12000000,
+            "vPoint": 800
+        },
+        {
+            "cost": 300,
+            "cycles": 3,
+            "start": 1,
+            "end": 13,
+            "delay": 1,
+            "turns": 7,
+            "gold": 30000000,
+            "vPoint": 1000
+        },
+        {
+            "cost": 20,
+            "cycles": 0,
+            "start": 14,
+            "end": 15,
+            "delay": 1,
+            "turns": 14,
+            "gold": 700000,
+            "vPoint": 70
+        },
+        {
+            "cost": 50,
+            "cycles": 1,
+            "start": 14,
+            "end": 15,
+            "delay": 1,
+            "turns": 14,
+            "gold": 2000000,
+            "vPoint": 200
+        },
+        {
+            "cost": 200,
+            "cycles": 2,
+            "start": 14,
+            "end": 15,
+            "delay": 1,
+            "turns": 14,
+            "gold": 12000000,
+            "vPoint": 800
+        },
+        {
+            "cost": 300,
+            "cycles": 3,
+            "start": 14,
+            "end": 15,
+            "delay": 1,
+            "turns": 14,
+            "gold": 30000000,
+            "vPoint": 1000
+        }
+    ],
+    "BonusPurchase": [
+        {
+            "type": 0,
+            "localCost": 10,
+            "turns": 0
+        },
+        {
+            "type": 0,
+            "localCost": 20,
+            "turns": 0
+        },
+        {
+            "type": 0,
+            "localCost": 50,
+            "turns": 1
+        },
+        {
+            "type": 0,
+            "localCost": 100,
+            "turns": 2
+        },
+        {
+            "type": 0,
+            "localCost": 200,
+            "turns": 4
+        },
+        {
+            "type": 0,
+            "localCost": 300,
+            "turns": 6
+        },
+        {
+            "type": 0,
+            "localCost": 400,
+            "turns": 0
+        },
+        {
+            "type": 0,
+            "localCost": 500,
+            "turns": 10
+        },
+        {
+            "type": 0,
+            "localCost": 1000,
+            "turns": 0
+        },
+        {
+            "type": 0,
+            "localCost": 2000,
+            "turns": 0
+        },
+        {
+            "type": 1,
+            "localCost": 50,
+            "turns": 1
+        },
+        {
+            "type": 1,
+            "localCost": 100,
+            "turns": 2
+        },
+        {
+            "type": 1,
+            "localCost": 250,
+            "turns": 3
+        },
+        {
+            "type": 1,
+            "localCost": 500,
+            "turns": 10
+        },
+        {
+            "type": 1,
+            "localCost": 1000,
+            "turns": 20
+        },
+        {
+            "type": 1,
+            "localCost": 2540,
+            "turns": 50
+        }
+    ],
+    "SpinPercent": [
+        {
+            "1": 5,
+            "2": 5,
+            "3": 5,
+            "4": 5,
+            "5": 5,
+            "6": 5,
+            "7": 15,
+            "8": 20,
+            "9": 20,
+            "10": 15
+        },
+        {
+            "1": 5,
+            "2": 5,
+            "3": 5,
+            "4": 5,
+            "5": 5,
+            "6": 15,
+            "7": 20,
+            "8": 20,
+            "9": 15,
+            "10": 5
+        },
+        {
+            "1": 5,
+            "2": 5,
+            "3": 5,
+            "4": 5,
+            "5": 15,
+            "6": 20,
+            "7": 20,
+            "8": 15,
+            "9": 5,
+            "10": 5
+        },
+        {
+            "1": 5,
+            "2": 5,
+            "3": 5,
+            "4": 15,
+            "5": 20,
+            "6": 20,
+            "7": 15,
+            "8": 5,
+            "9": 5,
+            "10": 5
+        },
+        {
+            "1": 5,
+            "2": 5,
+            "3": 15,
+            "4": 20,
+            "5": 20,
+            "6": 15,
+            "7": 5,
+            "8": 5,
+            "9": 5,
+            "10": 5
+        },
+        {
+            "1": 5,
+            "2": 15,
+            "3": 20,
+            "4": 20,
+            "5": 15,
+            "6": 5,
+            "7": 5,
+            "8": 5,
+            "9": 5,
+            "10": 5
+        },
+        {
+            "1": 5,
+            "2": 15,
+            "3": 20,
+            "4": 20,
+            "5": 15,
+            "6": 5,
+            "7": 5,
+            "8": 5,
+            "9": 5,
+            "10": 5
+        },
+        {
+            "1": 15,
+            "2": 20,
+            "3": 20,
+            "4": 15,
+            "5": 5,
+            "6": 5,
+            "7": 5,
+            "8": 5,
+            "9": 5,
+            "10": 5
+        },
+        {
+            "1": 15,
+            "2": 20,
+            "3": 20,
+            "4": 15,
+            "5": 5,
+            "6": 5,
+            "7": 5,
+            "8": 5,
+            "9": 5,
+            "10": 5
+        }
+    ],
+    "MysteryPercent": [
+        [
+            20,
+            20,
+            20,
+            20,
+            20
+        ],
+        [
+            20,
+            20,
+            20,
+            20,
+            20
+        ],
+        [
+            20,
+            20,
+            20,
+            20,
+            20
+        ],
+        [
+            30,
+            5,
+            30,
+            30,
+            5
+        ],
+        [
+            30,
+            5,
+            30,
+            30,
+            5
+        ],
+        [
+            30,
+            5,
+            30,
+            30,
+            5
+        ],
+        [
+            33,
+            1,
+            33,
+            32,
+            1
+        ],
+        [
+            33,
+            1,
+            33,
+            32,
+            1
+        ],
+        [
+            33,
+            1,
+            33,
+            32,
+            1
+        ]
+    ],
+    "TicketReward": [
+        {
+            "ticketReward": 1
+        },
+        {
+            "ticketReward": 1
+        },
+        {
+            "ticketReward": 1
+        },
+        {
+            "ticketReward": 2
+        },
+        {
+            "ticketReward": 2
+        },
+        {
+            "ticketReward": 2
+        },
+        {
+            "ticketReward": 3
+        },
+        {
+            "ticketReward": 3
+        },
+        {
+            "ticketReward": 3
+        }
+    ]
+}

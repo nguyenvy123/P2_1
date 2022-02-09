@@ -1,0 +1,10 @@
+{
+    "start": 1633363602.7968247,
+    "script": "Main.air",
+    "tests": {
+        "emulator-5554": {
+            "status": 0,
+            "path": "Main.air\\log\\emulator-5554\\log.html"
+        }
+    }
+}
