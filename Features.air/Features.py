@@ -32,7 +32,7 @@ def CheckUpdateGold(caseId, txtCompare, txtLogContent):
     txtGoldUserIngame = poco(TXT_GOLD_LOBBY).get_text()
     CheckTxtExists(txtGoldUserIngame, txtCompare, caseId, "%s Client:" %txtLogContent) 
     txtGoldUserIngame = CompactGold(GetUserModel()["gold"])
-    CheckTxtExists(txtGoldUserIngame, txtCompare, caseId, "%s Server:" %txtLogContent) 
+    CheckTxtExists(txtGoldUserIngame, txtCompare, caseId, "%s Server:" %txtLogContent)
 
 # Loại bỏ dấu phân tách hàng nghìn của các số
 # Separator: string (. ,)
@@ -85,15 +85,14 @@ def CheatGold(numGold):
         poco(BTN_CHEAT_GOLD).click()
     poco(BTN_CHEAT).click()
     print("Close Cheat Gold")
-# CheatGold(100000)
+# CheatGold(1000)
 # Reload lobby bằng cách bấm chọn bàn rồi thoát
 def ReloadLobby(isReload=False, isClose=True):
-    poco(BTN_SELECT_TABLE).click()
+    poco(BTN_PLAY).click()
     sleep(1)
-    poco(BTN_BACK).click()
+    poco(BTN_EXIT).click()
     sleep(1)
     ClosePopups(isReload, isClose)
-
 # Ở Lobby đóng các loại Popups có thể có, xếp theo thứ tự ưu tiên
 # Sau khi gọi hàm này, có thể dùng data trong popups để check nếu cần
 # isReload: Có reload lần nữa không? Nhiều trường hợp phải reload Lobby 2 lần cho chắc hehe
@@ -108,15 +107,15 @@ def ClosePopups(isReload=False, isClose=True):
         poco(BTN_CLAIM_REWARD).click()
         poco(BTN_CLOSE).click()
         sleep(1)
-    # Popup Final Ranking
-    if poco(GUI_END_RANKING).exists():
-        popups.append(FINAL_RANING)
-        poco(BTN_CONFIRM).click()
-        sleep(1)
+#     # Popup Final Ranking
+#     if poco(GUI_END_RANKING).exists():
+#         popups.append(FINAL_RANING)
+#         poco(BTN_CONFIRM).click()
+#         sleep(1)
     # Popup Daily Bonus
     if poco(text = TXT_TODAY).exists():
         popups.append(DAILY_BONUS)
-        poco(BTN_CLOSE_NOTI).click()
+        poco(BTN_CLOSE).click()
         sleep(1)
     # Tutorial        
     if poco(CONTENT, text = TEXT_CONTENT).exists():
@@ -124,17 +123,17 @@ def ClosePopups(isReload=False, isClose=True):
         poco(BTN_CLOSE).click()
         sleep(1)
     # Popup Event WC
-    if poco(POPUP_WC).exists():
-        popups.append(POPUP_EVENT_WC)
-        if isClose:
-            poco(BTN_CLOSE).click()
-        else:
-            poco(BTN_ACTION).click()
-            CheckImgExists(0, "Click Join Now In Popup Event, Open Event WC", poco(TITLE_GUI, text = TITLE_WC))
-            if lastCheckPoint:
-                poco(BTN_CLOSE).click()
-                popups.append(EVENT_WC)
-        sleep(1)
+#     if poco(POPUP_WC).exists():
+#         popups.append(POPUP_EVENT_WC)
+#         if isClose:
+#             poco(BTN_CLOSE).click()
+#         else:
+#             poco(BTN_ACTION).click()
+#             CheckImgExists(0, "Click Join Now In Popup Event, Open Event WC", poco(TITLE_GUI, text = TITLE_WC))
+#             if lastCheckPoint:
+#                 poco(BTN_CLOSE).click()
+#                 popups.append(EVENT_WC)
+#         sleep(1)
     # Event WC
     if poco(TITLE_GUI, text = TITLE_WC).exists():
         popups.append(EVENT_WC)
@@ -157,11 +156,10 @@ def ClosePopups(isReload=False, isClose=True):
         poco(BTN_CLOSE).click()
         sleep(1)
     # Shop - receive gold support
-    if poco(GUI_SHOP).exists():
-        if poco(BTN_RECEIVE).exists():
-            poco(BTN_RECEIVE).click()
+    if poco(TITLE_GUI, text = TITLE_GOLD_SP).exists():
+        if poco(BTN_CLAIM).exists():
+            poco(BTN_CLAIM).click()
             poco(BTN_BACK).click() # Touch out to receive
-        poco(BTN_BACK).click()
         popups.append(GOLD_SUPPORT)
         sleep(1)
     # Popup Offer 1st
@@ -174,7 +172,7 @@ def ClosePopups(isReload=False, isClose=True):
         popups.append(JOIN_RANKING)
         poco(BTN_CLOSE).click()
         sleep(1)
-
+# ClosePopups(isReload = True, isClose = True)
 def CheckShowGoldSupport(caseId, expect=True):
     CheatGold(minGold - 1)  # Cheat gold không đủ chơi mức tối thiểu
     ReloadLobby()
@@ -284,7 +282,6 @@ def CheatTime(time):
     # Thực hiện cheat time sau khi đã xác định được các thông số cần thiết
     a = api_postDoFunction(GetCurUId(), CHEAT_TIME, ["%s" %timeCheat.split(" ")[0],"%s" %timeCheat.split(" ")[1]])
     return a
-
 # Phân tách DateTime: d/m/Y/H/M
 # type of "time": datetime
 def SeparateTime(time): 
@@ -294,7 +291,7 @@ def SeparateTime(time):
 def GetCurTime():
     txtDateTime = poco(TXT_TIME_SERVER).get_text().split(" - ")
     txtTime = txtDateTime[0].split(":")
-    txtDate = txtDateTime[1].split(":")
+    txtDate = txtDateTime[1].split("/")
     return "%s/%s/%s/%s/%s" %(txtDate[0], txtDate[1], txtDate[2], txtTime[0], txtTime[1])
 # Định dạng lại time Cheat theo format param cheat: d-m-Y H:M:S
 # "time": d/m/Y/H/M
@@ -329,7 +326,6 @@ def GetCurUId():
     poco(BTN_CLOSE).click()
     return uId
 # ========================== Write log ========================== 
-
 # Kiểm tra xem show hình ảnh đúng mong đợi hay không rồi ghi log
 # isExist: Check hình A có đang show không
 # Nếu mong đợi là CÓ SHOW thì để isExists = True

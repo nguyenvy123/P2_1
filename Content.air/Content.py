@@ -87,7 +87,7 @@ CONTENT = "txtContent"
 TEXT_CONTENT = "Welcome to Pusoy Dos ZingPlay Let me show you how to play! ^o^"
 
 # =========================== Support =========================== 
-
+TITLE_GOLD_SP = "This is the last support gold of day"
 SUPPORT = "SOPORTE" # Text in popup Gold Support
 BTN_CLAIM_SUPPORT = "btnGet"
 
@@ -104,7 +104,7 @@ TXT_TODAY = "Today"
 # =========================== Event WC =========================== 
 
 TITLE_GUI = 'lbTitle'
-POPUP_WC = "imgTouch"
+POPUP_WC = "imgBg1"
 BTN_ACTION = "btnAction"
 BTN_WC_IN_TABLE = 'WCProgressTable'
 PROGRESS_IN_TABLE = "lbAccumulationValue"
@@ -148,14 +148,14 @@ BTN_CLAIM_REWARD = 'btnClaim'
 # =========================== Ranking =========================== 
 
 TXT_CLAIM = "lbtextClaim"
-TOP_CONGRAT = "¡Muy Bien! ¡sigues asi!"
+TOP_CONGRAT = "Good job!Keep it up!"
 GUI_RANKING = "Power hand Ranking"
 GUI_END_RANKING = "features/ranking_power/ranking_power_title"
 BTN_CONFIRM = "btnConfirm"
 
 # =========================== Offers =========================== 
 
-GUI_OFFER_1ST = "imgTitleBanner"
+GUI_OFFER_1ST = "imgBg"
 BTN_BUY = "btnBuy"
 BTN_SHOP_NOW = "btnShopNow"
 

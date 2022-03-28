@@ -5,7 +5,14 @@ import os.path
 import traceback
 
 from airtest.core.api import *
+from poco.drivers.cocosjs import CocosJsPoco
+poco = CocosJsPoco()
+
+from airtest.core.api import *
 from airtest.core.api import using
+using("Constant.air")
+from Constant import *
+
 using("Content.air")
 from Content import *
 from Features import *
