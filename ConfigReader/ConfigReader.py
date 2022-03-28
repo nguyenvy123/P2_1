@@ -3,9 +3,8 @@ import json
 class ConfigReader:
     def __init__(self):
         self.allConfig = {}
-#         self.baseUrl = "Config\\"
-        config = open("Config\\Jsonlist.json")
-        listConfig = json.load(config)
+        self.baseUrl = "Config\\"
+        listConfig = json.load(open("D:\\P2_1\\Config\\jsonList.json"))
         self.readAllConfig(listConfig)
 
     def readAllConfig(self, listConfig):
@@ -14,7 +13,7 @@ class ConfigReader:
 #         print(self.allConfig)
 
     def readJsonConfigFile(self, fileName):
-        jsonConfig = json.load(open("Config\\" + fileName))
+        jsonConfig = json.load(open("D:\\P2_1\\Config\\" + fileName))
         self.allConfig[fileName] = jsonConfig
 
     #============= DEF FUNC HERE ============

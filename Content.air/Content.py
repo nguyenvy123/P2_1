@@ -208,3 +208,5 @@ BTN_SEND = "Send"
 BTN_ACCEPT = "btnBirthdayCheatProgress"
 TXT_PROCESS = "ebBirthdayCheatProgress"
 BTN_CHEAT_BR = "btnViewBirthdayEvent"
+
+

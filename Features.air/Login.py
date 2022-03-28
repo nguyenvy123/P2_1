@@ -1,7 +1,9 @@
 # -*- encoding=utf8 -*-
-__author__ = "LinhDNA"
-
+__author__ = "VyHN"
+import sys
+import os.path
 import traceback
+
 from airtest.core.api import *
 from airtest.core.api import using
 using("Content.air")
@@ -74,15 +76,14 @@ def StartGame(caseId, accName):
 #         if poco(BTN_GUEST).exists():
 #             LoginZAcc(caseId, accName, isRegister)
 #             ClosePopups()
-#             CheckImgExists(caseId, "Log into game", poco(BTN_VIP), True, True, 3)
-    
+            
 def LogOut():
     poco(BTN_SETTING).click()
     poco(BTN_LOG_OUT).click()
-    
+LogOut()
 def LoginZAcc(caseId, accName, isRegister): #Chưa check new user có tutorial
     poco(BTN_ZACC).click()
-    poco(BOX_NAME).click([0.5,0.5])
+    poco(BOX_NAME).click([0.5,0.4])
     for i in range(10):
         keyevent("KEYCODE_DEL")
     text(accName)

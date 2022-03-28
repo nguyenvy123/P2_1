@@ -26,7 +26,7 @@ configChallenge = config.getConfigByElement(EVENT_WC_JS, "Challenge")
 configOtherInfo = config.getConfigByElement(EVENT_WC_JS, "Misc")
 configOffers = config.getConfigByElement(EVENT_WC_JS, "Offers")
 # configWCExtra = config.getConfigByElement(EXTRA_JS, "WCMission")
-configTCLogic = config.getConfigByElement(EXTRA_JS, "TestCase")
+# configTCLogic = config.getConfigByElement(EXTRA_JS, "TestCase")
 
 showTime = configOtherInfo["beforeTime"] #- timeDelta
 startTime = configOtherInfo["startTime"] #- timeDelta
@@ -560,3 +560,4 @@ def CheckStartEvent(caseId, posStart):
     WriteLogRunning(caseId, "Start Event %s, Auto Show GUI Event" %posStart, "", False, CheckPopupVisible(EVENT_WC))
     WriteLogRunning(caseId, "Start Event %s, Auto Show GUI Deal" %posStart, "", False, CheckPopupVisible(DEAL_WC))
     CheckImgExists(caseId, "Start Event %s, Auto Show Btn Event" %posStart, poco(FEATURE_WC))
+
